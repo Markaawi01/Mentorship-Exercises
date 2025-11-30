@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise Four</title>
+</head>
+<body>
+   <form action="/">
+    <h1>Conference Registration</h1><br>
+
+    <fieldset>
+        <legend><h3>Personal Information</h3></legend>
+        <table>
+            <tr>
+                <th><label for="name">Full Name</label></th>
+                <th><input type="text" id="name" name="name" required></th>
+            </tr>
+            <tr>
+                <th><label for="email">Email</label></th>
+                <th><input type="email" id="email" name="email" required></th>
+            </tr>
+            <tr>
+                <th><label for="phone">Phone Number</label></th>
+                <th><input type="text" name="phone" id="phone" placeholder="+252" required></th>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend><h2>Conference Details Section</h2></legend>
+
+        <fieldset>
+            <legend><h3>Preferred Days</h3></legend>
+            <label for="day1">Day1</label>
+            <input type="checkbox" name="day1" id="day1"><br>
+
+            <label for="day2">Day2</label>
+            <input type="checkbox" name="day2" id="day2"><br>
+
+            <label for="day3">Day3</label>
+            <input type="checkbox" name="day3" id="day3"><br>
+        </fieldset>
+
+        <fieldset>
+            <legend><h3>Type of Attendance</h3></legend>
+            <label>
+                <input type="radio" value="virtual" name="attendance">
+                Virtual
+            </label><br>
+
+            <label>
+                <input type="radio" value="inperson" name="attendance">
+                In Person
+            </label><br>
+        </fieldset>
+
+        <fieldset>
+            <legend><h3>Size Of T-shirt</h3></legend>
+            <label for="size">Size:</label>
+            <select id="size" name="size">
+                <option value="X">X</option>
+                <option value="XL">XL</option>
+                <option value="M">M</option>
+                <option value="XXL">XXL</option>
+            </select>
+        </fieldset>
+
+        <fieldset>
+            <legend><h3>Sessions of Interest Section</h3></legend>
+            <table>
+                <tr>
+                    <th><label for="webdev">Web Development</label></th>
+                    <th><input type="checkbox" name="webdev" id="webdev"></th>
+                </tr>
+                <tr>
+                    <th><label for="cloudcomputing">Cloud Computing</label></th>
+                    <th><input type="checkbox" name="cloudcomputing" id="cloudcomputing"></th>
+                </tr>
+                <tr>
+                    <th><label for="cybersecurity">Cyber Security</label></th>
+                    <th><input type="checkbox" name="cybersecurity" id="cybersecurity"></th>
+                </tr>
+                <tr>
+                    <th><label for="datascience">Data Science</label></th>
+                    <th><input type="checkbox" name="datascience" id="datascience"></th>
+                </tr>
+            </table>
+        </fieldset>
+
+        <fieldset>
+            <legend><h3>Dietary Preferences Section</h3></legend>
+            <table>
+                <tr>
+                    <th><label for="vegan">Vegan</label></th>
+                    <th><input type="checkbox" name="vegan" id="vegan"></th>
+                </tr>
+                <tr>
+                    <th><label for="gluten">Gluten-Free</label></th>
+                    <th><input type="checkbox" name="gluten" id="gluten"></th>
+                </tr>
+                <tr>
+                    <th><label for="nut">Nut-Free</label></th>
+                    <th><input type="checkbox" name="nut" id="nut"></th>
+                </tr>
+                <tr>
+                    <th><label for="dairy">Dairy-Free</label></th>
+                    <th><input type="checkbox" name="dairy" id="dairy"></th>
+                </tr>
+                <tr>
+                    <th><label for="no">No Restrictions</label></th>
+                    <th><input type="checkbox" name="no" id="no"></th>
+                </tr>
+            </table>
+
+            <h3>Additional Comments</h3>
+            <label for="comment">Comments:</label><br>
+            <textarea id="comment" name="comment"></textarea><br><br>
+
+            <label for="updates">Receive updates about the conference via email</label>
+            <input type="checkbox" name="updates" id="updates">
+        </fieldset>
+
+    </fieldset>
+
+    <input type="submit">
+    </form>
+</body>
+</html>
