@@ -1,4 +1,18 @@
-ul li {
+/* // Exercise One */
+/* ul li {
     color: yellowgreen;
 
+} */
+
+/* Exercise Two */
+p{
+    color: brown;
+    font-size: 20px;
+}
+.fav{
+    color:blue
+}
+#character-name{
+    color: darkblue;
+    font-size: 25px;
 }
