@@ -20,24 +20,24 @@
 
 /* Exercise Three */
 
-.header {
-    background-color: #007bff; /* Blue */
-    color: #ffffff; /* White */
+/* .header {
+    background-color: #007bff; 
+    color: #ffffff; 
 }
 
 .about, .services {
-    background-color: #f8f9fa; /* Light gray */
-    color: #343a40; /* Dark gray */
+    background-color: #f8f9fa; 
+    color: #343a40; 
 }
 
 .service {
-    background-color: #28a745; /* Green */
-    color: #ffffff; /* White */
+    background-color: #28a745; 
+    color: #ffffff; 
 }
 
 .footer {
-    background-color: #343a40; /* Dark gray */
-    color: #f8f9fa; /* Light gray */
+    background-color: #343a40; 
+    color: #f8f9fa; 
 }
 
 #t1{
@@ -51,4 +51,19 @@
 #t3{
     background-color: #28a745;
     color: red;
+}
+ */
+/* Exercise4 */
+#arialfont{
+    font-family: Arial, Helvetica, sans-serif;
+}
+blockquote{
+    font-family: fantasy;
+    font-size: 15px;
+    font-style: italic;
+}
+blockquote footer{
+    font-family: sans-serif;
+    font-style: bold;
+    font-size: 10px;
 }
