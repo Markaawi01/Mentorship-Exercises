@@ -5,7 +5,7 @@
 } */
 
 /* Exercise Two */
-p{
+/* p{
     color: brown;
     font-size: 20px;
 }
@@ -15,4 +15,40 @@ p{
 #character-name{
     color: darkblue;
     font-size: 25px;
+} */
+
+
+/* Exercise Three */
+
+.header {
+    background-color: #007bff; /* Blue */
+    color: #ffffff; /* White */
+}
+
+.about, .services {
+    background-color: #f8f9fa; /* Light gray */
+    color: #343a40; /* Dark gray */
+}
+
+.service {
+    background-color: #28a745; /* Green */
+    color: #ffffff; /* White */
+}
+
+.footer {
+    background-color: #343a40; /* Dark gray */
+    color: #f8f9fa; /* Light gray */
+}
+
+#t1{
+    background-color: blue;
+    color: white;
+}
+#t2{
+    background-color: #343a40;
+    color: rgb(144, 144, 243);
+}
+#t3{
+    background-color: #28a745;
+    color: red;
 }
