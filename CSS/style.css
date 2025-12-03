@@ -53,7 +53,7 @@
     color: red;
 }
  */
-/* Exercise4 */
+/* Exercise four */
 /* #arialfont{
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -69,9 +69,9 @@ blockquote footer{
 } */
 
 
-/* Exercise 5 */
+/* Exercise Five */
 
-article h2{
+/* article h2{
     text-align:center;
 }
 article p{
@@ -79,4 +79,21 @@ article p{
 }
 .important{
     text-decoration: underline;
+} */
+
+
+/* Exercise six */
+
+#box1{
+    background-color: blue;
+    margin: 20px;
 }
+#box2{
+    background-color: green;
+    margin: 20px;
+}
+#box3{
+    background-color: red;
+    margin: 20px;
+}
+
