@@ -98,7 +98,7 @@ article p{
 } */
 
 /* Execise Seven */
-
+/* 
 #block1{
     background-color: brown;
     padding: 40px;
@@ -115,4 +115,57 @@ article p{
     background-color: blue;
     color: white;
     padding: 10px;
+} */
+
+/* Exercise Eight */
+
+body{
+    background-color: grey;
+    color: blue;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.solid{
+    border: 2px solid black;
+    width: 350px;
+    color: green;
+}
+
+.dotted{
+    border: 2px dotted green;
+    width: 300px;
+    color: black;
+}
+.dashed{
+    border: 2px dashed red;
+    width: 250px;
+    color: blue;
+}
+
+.double{
+    border: 2px double blue;
+    width: 200px;
+    color: red;
+}
+
+.quote{
+    margin: 20px;
+    padding: 15px;
+}
+#quote1{
+    background-color: lightblue;
+    text-align: left;
+}
+#quote2{
+    background-color: lightcoral;
+    text-align: left;
+}
+#quote3{
+    background-color: lightgreen;
+    text-align: left;
+}
+#quote4{
+    background-color: lightpink;
+    text-align: left;
 }
