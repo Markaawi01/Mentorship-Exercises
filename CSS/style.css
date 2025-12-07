@@ -83,7 +83,7 @@ article p{
 
 
 /* Exercise six */
-
+/* 
 #box1{
     background-color: blue;
     margin: 20px;
@@ -95,5 +95,24 @@ article p{
 #box3{
     background-color: red;
     margin: 20px;
+} */
+
+/* Execise Seven */
+
+#block1{
+    background-color: brown;
+    padding: 40px;
+    color: wheat;
 }
 
+#block2{
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+
+#block3{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
