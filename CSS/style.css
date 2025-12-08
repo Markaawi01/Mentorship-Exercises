@@ -171,7 +171,7 @@ body{
 } */
 
 /* Exercise9 */
-
+/* 
 .interest-section{
     width: 80vw;
     height: 50vh;
@@ -209,4 +209,24 @@ p{
     text-align: center;
     list-style: none;
 }
+ */
 
+ /* Exercise10 */
+
+ #div1{
+    display: inline;
+    background-color: lightblue;
+    width: 98vw;
+ }
+ #span1{
+    display: block;
+    background-color: coral;
+ }
+ #div2{
+    display: none;
+ }
+ #span2{
+    display: block;
+    width: 100vw;
+    background-color: yellow;
+ }
