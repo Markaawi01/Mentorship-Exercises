@@ -118,7 +118,7 @@ article p{
 } */
 
 /* Exercise Eight */
-
+/* 
 body{
     background-color: grey;
     color: blue;
@@ -168,4 +168,45 @@ body{
 #quote4{
     background-color: lightpink;
     text-align: left;
+} */
+
+/* Exercise9 */
+
+.interest-section{
+    width: 80vw;
+    height: 50vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    padding: 20px;
 }
+#books{
+    background-color: lightblue;
+}
+#movies{
+    background-color: lightgray;
+}
+#foods{
+    background-color: lightgreen;
+}
+h1{
+    text-align: center;
+    font-size: 24px;
+}
+p{
+    font-size: 16px;
+}
+
+.interest-section .book-list{
+    text-align: center;
+    list-style: none;
+}
+
+.interest-section .movies-list{
+    text-align: center;
+    list-style: none;
+}
+.interest-section .food-list{
+    text-align: center;
+    list-style: none;
+}
+
