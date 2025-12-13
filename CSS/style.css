@@ -307,7 +307,7 @@ p{
 
 /* 
 Exercise Thirteen */
-
+/* 
 .fixed-header{
     position: fixed;
     top: 0;
@@ -337,5 +337,16 @@ Exercise Thirteen */
 
 .fixed-footer a{
     color: white;
-}
+} */
 
+/* Execise Fourteen */
+
+.sticky-header{
+    position: sticky;
+    top: 0;
+    padding: 10px 0;
+    background-color:rgb(252, 252, 255);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    color: blue;
+    
+}
