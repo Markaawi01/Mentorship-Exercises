@@ -352,7 +352,7 @@ Execise Fourteen
 } */
 
 /* Exercise Fifteen */
-
+/* 
 .nav-bar{
     background-color: rgb(57, 57, 245);
     padding: 10px;
@@ -388,6 +388,21 @@ Execise Fourteen
     box-sizing: content-box;
     width: 300px;
     height: 300px;
-    border: 5px solid red; /* border won’t affect image size */
+    border: 5px solid red; 
+} */
+
+/* Execise sixsteen */
+
+.media-player{
+    display: flex;
 }
 
+.control-button{
+    flex: 1;
+    min-width:60px;
+    padding: 10px;
+    border: none;
+}
+.play{
+flex: 2;
+}
