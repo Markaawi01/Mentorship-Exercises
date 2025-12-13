@@ -272,66 +272,18 @@ p{
 
 
 /* Exercise Tweleve */
-/* .profile-card{
-    position: relative;
-    width: 300px;
-    height: 200px;
-
-}
-.profile-image{
-    width: 100%;
-    height: auto;
-}
-
-.user-info{
-    position:absolute;
-    background-color: pink;
-    font-weight: bold;
-     border-radius: 15px;
-    padding: 5px 10px;
-    height: auto;
-    
-} */
-
-
-/* .promo-container {
-    position: relative;
-  width: 300px;
-  height: 20px;
-}
-.promo-image {
-  width: 100%;
-  height: 100%;
- 
-}
-.promo-badge {
-    top: 830px;
-    position: absolute;
-  background: lightslategray;
-  color: white;
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 14px;
-  width: 500px;
-  right: -250px;
-  text-align: center;
-  padding: 10px;;
-
-} */
-
-
+/* 
 .promo-container {
   position: relative;
   width: 300px;
-  height: 350px; /* big enough for the image */
+  height: 350px; 
   border-radius: 10px;
-  overflow: hidden; /* hides edges like rounded corners */
+  overflow: hidden; 
 }
-
 .profile-image {
   width: 100%;
   height: 100%;
-  /* object-fit: cover; */
+  
 }
 
 .promo-badge {
@@ -341,7 +293,7 @@ p{
   width: 100%;
   text-align: center;
 
-  background: rgba(0, 0, 0, 0.5); /* transparent black overlay */
+  background: rgba(0, 0, 0, 0.5);
   color: white;
   padding: 20px 0;
 }
@@ -351,4 +303,39 @@ p{
 }
 .user-title {
   font-size: 14px;
+} */
+
+/* 
+Exercise Thirteen */
+
+.fixed-header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: cornflowerblue;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 5px;
 }
+
+
+.fixed-header a{
+    color: white;
+    padding: 10px ;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.fixed-footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:cornflowerblue ;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.fixed-footer a{
+    color: white;
+}
+
