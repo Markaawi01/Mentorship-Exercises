@@ -338,8 +338,8 @@ Exercise Thirteen */
 .fixed-footer a{
     color: white;
 } */
-
-/* Execise Fourteen */
+/* 
+Execise Fourteen
 
 .sticky-header{
     position: sticky;
@@ -349,4 +349,45 @@ Exercise Thirteen */
     box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
     color: blue;
     
+} */
+
+/* Exercise Fifteen */
+
+.nav-bar{
+    background-color: rgb(57, 57, 245);
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    
 }
+
+.nav-bar a{
+    width: 180px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+    background-color: gray;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+
+.border-box a{
+ box-sizing: border-box;
+}
+
+.img-gellery {
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.img-gellery img {
+    box-sizing: content-box;
+    width: 300px;
+    height: 300px;
+    border: 5px solid red; /* border won’t affect image size */
+}
+
