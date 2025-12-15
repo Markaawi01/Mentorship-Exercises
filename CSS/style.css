@@ -545,7 +545,8 @@ body{
     color: white;
 } */
 
-.container{
+/* Exercise Nineteen */
+/* .container{
 
   
    display: grid;
@@ -558,4 +559,27 @@ body{
     background-color: blue;
     padding: 20px;
    
+} */
+
+/* 
+Exercise Twenty */
+
+.main-container{
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(2,100px);
+}
+.article{
+    background-color: blue;
+    border: 5px solid yellow;
+    color: white;
+    text-align: center;
+    align-content: center;
+    
+}
+.main-article{
+   grid-column: 1 / span 2;
+   grid-row: 1 / span 2;
 }
