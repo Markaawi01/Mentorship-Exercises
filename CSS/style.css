@@ -417,11 +417,11 @@ flex: 2;
     align-items: center;     
 } */
 
-
+/* 
 .main-container{
     display: flex;
     flex: 1;
-    /* background-color: rgb(188, 158, 119); */
+    
     border: 1px solid black;
     width: 90vw;
     height: 70vh;
@@ -449,4 +449,97 @@ flex: 2;
     width: 100px;
     height: 35px;
     border-radius: 5px;
+} */
+
+/* Exercise Eighteen */
+.nav-bar{
+    background-color: rgb(112, 113, 84);
+    height: 60px;  
+    text-align: center;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    
+   
+ 
+}
+.nav-bar ul li{
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 10px;
+
+}
+
+        
+   
+.nav-bar ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    background-color: rgb(177, 149, 242);
+    width: 150px;
+    display: inline-block;
+    border-radius: 10px;
+ 
+}
+body{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+}
+.main-container{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10%;
+    gap: 20px;
+
+    
+ 
+}
+
+.posts-container {
+    display: flex;
+    flex-direction: column;        
+    flex: 3;
+}
+
+.main-container img{
+    width: 100%;
+}
+.posts{
+    border: 1px solid goldenrod;
+    padding: 10px;
+    flex: 3;
+    margin: 10px;
+}
+.posts .read_more{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+}
+
+
+.side-bar{
+    text-align: center;
+    flex: 1;
+    background-color: rgb(239, 205, 163);
+    padding: 10px;
+    margin-top: 10px;
+    height: auto;
+ 
+    
+
+}
+
+.footer{
+    background-color: rgb(112, 113, 84);
+    text-align: center;
+    padding: 5px;
+    position: sticky;
+    bottom: 0;
+    color: white;
 }
