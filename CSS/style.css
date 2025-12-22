@@ -563,7 +563,7 @@ body{
 
 /* 
 Exercise Twenty */
-
+/* 
 .main-container{
     display: grid;
     gap: 10px;
@@ -583,3 +583,119 @@ Exercise Twenty */
    grid-column: 1 / span 2;
    grid-row: 1 / span 2;
 }
+
+.tuaalecororzila{
+    color: #daeceb;
+} */
+
+/* Exercise Twenty One */
+
+.container{
+    width: 1110px;
+    margin: 0px auto;
+}
+
+.section-header {
+  grid-column: 1 / span 2; /* same width as blogs */
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.section-title {
+  background: #000;
+  color: #fff;
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.section-line {
+  flex: 1;
+  height: 2px;
+  background: #000;
+  margin-left: 0px;
+  margin-top: 26px;
+  margin-right: 5px;
+}
+
+.grid-container{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(3,1fr)
+
+}
+
+.grid-container div{
+    /* background-color: yellowgreen; */
+    /* padding: 5px; */
+}
+
+.grid-container .blogs{
+    display: grid;
+    grid-column: 1 / span 2;
+}
+
+.grid-container .blogs{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+}
+
+.grid-container .blog{
+    /* background-color: brown; */
+}
+
+.grid-container .blogs .blog-descs{
+    display: grid;
+    grid-column: 2 / span 3;
+    margin-top: 0;
+    padding-top: 0;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.blog .blog-images{
+   padding-top: 20px;
+}
+
+.blog-image img{
+    width: 100%;
+}
+
+.grid-container .blogs .blog-descs .blog-desc h2:hover{
+    color: blue;
+}
+
+.ads img{
+    width: 100%;
+
+   
+}
+
+
+
+/* .grid-container div{
+    background-color: greenyellow;
+    padding: 20px;
+}
+
+.grid-container .blogs{
+    display: grid;
+    grid-column: 1 / span 2;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+   
+}
+
+.grid-container .blogs .blog{
+    background-color: brown;
+    display: gird;
+    
+
+} */
+
+
+
