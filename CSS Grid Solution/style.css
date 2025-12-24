@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+.container{
+   
+    width: 900px;
+    margin: 0px auto;
+}
+
+.blog img{
+    width: 222.708px;
+    height: 155.896px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    gap: 30px;
+
+}
+.main{
+  
+   
+    grid-column: 1 / span 2;
+}
+
+
+.topbar{
+    border-bottom: 2px solid black;
+    padding: 5px 0;
+  
+}
+.topbar span{
+    background-color: #222222;
+ 
+    padding: 6px 10px;
+    text-transform: uppercase;
+    font-family: Roboto,sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 400;
+    color: #fff;
+}
+.sidebar{
+  
+
+
+}
+.blogs .blog{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.blog-desc h2{
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.blog-desc h2:hover{
+    color:#4db2ec ;
+}
+
+.user-name-date .author{
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 700;
+    color: #000;
+}
+
+
+.user-name-date .date,.line{
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 400;
+    color: #767676;
+}
+
+.ads{
+    background:url("https://demo.tagdiv.com/newspaper_pro/wp-content/uploads/2019/10/newspaper-rec300d.jpg.webp") center /cover no-repeat;
+    width:300px;
+    height: 250px;
+    margin: 10px;
+}
+
+
+.ad{
+    border-color: #8954c1;
+
+}
+
+
+
+.blog .sidebar{
+flex-direction: column;
+}
+
+.blog-desc.side-bar img{
+    width: 100%;
+    height: auto;
+}
+
+.side-bar-thumnel{
+    position: relative;
+}
+
+.side-bar-thumnel span{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    font-weight: 600;
+    color: white;
+    font-size: 10px;
+    line-height: 10px;
+    background-color:#222222 ;
+}
