@@ -590,13 +590,13 @@ Exercise Twenty */
 
 /* Exercise Twenty One */
 
-.container{
+/* .container{
     width: 1110px;
     margin: 0px auto;
 }
 
 .section-header {
-  grid-column: 1 / span 2; /* same width as blogs */
+  grid-column: 1 / span 2; 
   display: flex;
   align-items: center;
   margin-bottom: 15px;
@@ -629,8 +629,7 @@ Exercise Twenty */
 }
 
 .grid-container div{
-    /* background-color: yellowgreen; */
-    /* padding: 5px; */
+    
 }
 
 .grid-container .blogs{
@@ -645,7 +644,7 @@ Exercise Twenty */
 }
 
 .grid-container .blog{
-    /* background-color: brown; */
+   
 }
 
 .grid-container .blogs .blog-descs{
@@ -673,7 +672,7 @@ Exercise Twenty */
     width: 100%;
 
    
-}
+} */
 
 
 
@@ -696,6 +695,89 @@ Exercise Twenty */
     
 
 } */
+
+/* Exercise Twenty Two */
+
+.main-container{
+    /* background-color: greenyellow; */
+    width: 800px;
+    margin: auto;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.container img{
+    width: 100%;
+}
+
+.box{
+    width: 250px;
+    height: auto;
+    padding: 40px;
+    box-shadow: 1px 0.5px 1px 1px #888888;
+    text-align: center;
+}
+
+.user-info{
+    display: flex;
+    flex-direction: column;
+ 
+}
+.user-info p{
+    margin: 0;
+   
+}
+
+/* =========================
+   RESPONSIVE BREAKPOINTS
+========================= */
+
+/* Smartphones */
+@media (max-width: 640px) {
+  .main-container {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .container {
+    justify-content: center;
+  }
+
+  .box {
+    width: 100%;
+    padding: 20px;
+  }
+}
+
+/* Tablets */
+@media (min-width: 641px) and (max-width: 1024px) {
+  .main-container {
+    width: 90%;
+  }
+
+  .box {
+    width: 45%;
+    padding: 30px;
+  }
+}
+
+/* Desktops & Laptops */
+@media (min-width: 1025px) and (max-width: 1279px) {
+  .main-container {
+    width: 800px;
+  }
+
+  .box {
+    width: 250px;
+  }
+}
+
+
+
 
 
 
