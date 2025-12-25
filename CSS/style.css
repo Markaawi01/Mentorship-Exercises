@@ -698,8 +698,8 @@ Exercise Twenty */
 
 /* Exercise Twenty Two */
 
-.main-container{
-    /* background-color: greenyellow; */
+/* .main-container{
+
     width: 800px;
     margin: auto;
 
@@ -730,14 +730,14 @@ Exercise Twenty */
 .user-info p{
     margin: 0;
    
-}
+} */
 
 /* =========================
    RESPONSIVE BREAKPOINTS
 ========================= */
 
 /* Smartphones */
-@media (max-width: 640px) {
+/* @media (max-width: 640px) {
   .main-container {
     width: 100%;
     padding: 10px;
@@ -751,10 +751,10 @@ Exercise Twenty */
     width: 100%;
     padding: 20px;
   }
-}
+} */
 
 /* Tablets */
-@media (min-width: 641px) and (max-width: 1024px) {
+/* @media (min-width: 641px) and (max-width: 1024px) {
   .main-container {
     width: 90%;
   }
@@ -766,7 +766,7 @@ Exercise Twenty */
 }
 
 /* Desktops & Laptops */
-@media (min-width: 1025px) and (max-width: 1279px) {
+/* @media (min-width: 1025px) and (max-width: 1279px) {
   .main-container {
     width: 800px;
   }
@@ -774,10 +774,56 @@ Exercise Twenty */
   .box {
     width: 250px;
   }
+} */ 
+
+
+/* Exercise Twenty Three */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
 }
 
 
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 20px;
+}
 
 
+img{
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.blog{
+    min-width: 200px;
+    /* max-width: 200px; */
+    width: calc(25% - 20px);
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
 
 
+@media(max-width:1200px){
+    .blog{
+        width: calc(33% - 20px);
+    }
+}
+
+@media(max-width:768px){
+
+    .blog{
+        width: calc(50% - 20px);
+    }
+}
+
+@media(max-width: 480px){
+    .blog{
+        width: 100%;
+    }
+}
