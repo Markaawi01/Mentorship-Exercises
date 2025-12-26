@@ -778,7 +778,7 @@ Exercise Twenty */
 
 
 /* Exercise Twenty Three */
-*{
+/* *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -802,13 +802,13 @@ img{
 .blog{
     min-width: 200px;
     /* max-width: 200px; */
-    width: calc(25% - 20px);
+    /* width: calc(25% - 20px);
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
-}
+} */
 
-
+/* 
 @media(max-width:1200px){
     .blog{
         width: calc(33% - 20px);
@@ -826,4 +826,57 @@ img{
     .blog{
         width: 100%;
     }
+} */
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main-container{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(4,1fr);
+    padding: 20px;
+}
+
+.service{
+    /* background-color: yellowgreen; */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    line-height: 20px;
+
+}
+.service p{
+    padding: 5px;
+}
+
+img{
+    width: 100%;
+    border-radius: 4px;
+
+}
+
+@media(max-width:1200px){
+    .main-container{
+        grid-template-columns: repeat(3,1fr);
+    }
+
+}
+
+@media(max-width:768px){
+    .main-container{
+        grid-template-columns: repeat(2,1fr);
+    }
+
+}
+
+@media(max-width:480px){
+    .main-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+
 }
