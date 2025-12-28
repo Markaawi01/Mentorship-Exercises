@@ -828,6 +828,9 @@ img{
     }
 } */
 
+
+/* Exercise Twenty Four  */
+/* 
 *{
     box-sizing: border-box;
     padding: 0;
@@ -842,7 +845,7 @@ img{
 }
 
 .service{
-    /* background-color: yellowgreen; */
+    
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -879,4 +882,80 @@ img{
         grid-template-columns: repeat(1,1fr);
     }
 
+} */
+
+/* Exercise Twenty Five  */
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial,  sans-serif;
+
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+}
+.grid-container{
+    display: flex;
+    height: 520px;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-text h1{
+    font-size: 1.125rem;
+    margin-bottom: 1rem;
+    margin-top: 5px;
+  
+}
+.grid-text p{
+
+    color: rgba(37, 37, 37, 0.8);
+   
+ 
+}
+
+button{
+    padding: 10px;
+    width: 5rem;
+    border-radius: 10px;
+    background-color: #333333;
+    color: white;margin-top: 10px;
+    
+}
+
+#image1, #image2{
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.grid-images{
+    display: flex;
+}
+
+#image1{
+    background: url("./Rectangle\ 6.png");
+}
+
+#image2{
+    background: url("./Rectangle\ 7.png");
+    margin-top: 80px;
+    margin-left: -50px;
+}
+
+.bottom-bar{
+    display: flex;
+    gap: 10px;
+    padding: 25px;
+    justify-content: space-between;
+    background-color: #333333;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    color: white;
 }
