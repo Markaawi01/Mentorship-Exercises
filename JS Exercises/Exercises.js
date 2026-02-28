@@ -172,10 +172,22 @@ let colors=["Green", "Blue","Red"];
 
 //Exercise Seven
 
-colors.push("Black")
-console.log(colors)
-colors.shift("Green");
-console.log(colors)
+// colors.push("Black")
+// console.log(colors)
+// colors.shift("Green");
+// console.log(colors)
+
+// Exercise Eight
+
+let car={
+  make:"1919",
+  name:"Sarif",
+  color:"White"
+}
+console.log(car.make);
+console.log(car.name);
+console.log(car.color);
+
 
 
 
