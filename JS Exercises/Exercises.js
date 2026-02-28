@@ -64,102 +64,110 @@
 
 // Exercise Four
 
-function calculate(n1, n2, operation) {
 
-  if (isNaN(n1) || isNaN(n2)) {
-    return "Only Numbers are Allowed";
-  }
+// function calculate(n1, n2, operation) {
 
-  if (operation == 1) {
-    return "Result of Addition: " + (n1 + n2);
-  }
-  else if (operation == 2) {
-    return "Result of Subtraction: " + (n1 - n2);
-  }
-  else if (operation == 3) {
-    return "Result of Multiplication: " + (n1 * n2);
-  }
-  else if (operation == 4) {
-    if (n2 == 0) {
-      return "Cannot divide by zero";
-    }
-    return "Result of Division: " + (n1 / n2);
-  }
-  else {
-    return "Invalid Operation";
-  }
-}
+//   if (isNaN(n1) || isNaN(n2)) {
+//     return "Only Numbers are Allowed";
+//   }
+
+//   if (operation == 1) {
+//     return "Result of Addition: " + (n1 + n2);
+//   }
+//   else if (operation == 2) {
+//     return "Result of Subtraction: " + (n1 - n2);
+//   }
+//   else if (operation == 3) {
+//     return "Result of Multiplication: " + (n1 * n2);
+//   }
+//   else if (operation == 4) {
+//     if (n2 == 0) {
+//       return "Cannot divide by zero";
+//     }
+//     return "Result of Division: " + (n1 / n2);
+//   }
+//   else {
+//     return "Invalid Operation";
+//   }
+// }
 
 
-let a = Number(prompt("Enter The First Number"));
-let b = Number(prompt("Enter The Second Number"));
-let op = prompt("Choose a number (1--4)\n1.Add\n2.Subtract\n3.Multiply\n4.Divide");
+// let a = Number(prompt("Enter The First Number"));
+// let b = Number(prompt("Enter The Second Number"));
+// let op = prompt("Choose a number (1--4)\n1.Add\n2.Subtract\n3.Multiply\n4.Divide");
 
-let result = calculate(a, b, op);
-alert(result);
+// let result = calculate(a, b, op);
+// alert(result);
 
 
 
 // Function Expression
 
-let  calculate=function(){
+// let  calculate=function(){
   
-  if (isNaN(n1) || isNaN(n2)) {
-    return "Only Numbers are Allowed";
-  }
+//   if (isNaN(n1) || isNaN(n2)) {
+//     return "Only Numbers are Allowed";
+//   }
 
-  if (operation == 1) {
-    return "Result of Addition: " + (n1 + n2);
-  }
-  else if (operation == 2) {
-    return "Result of Subtraction: " + (n1 - n2);
-  }
-  else if (operation == 3) {
-    return "Result of Multiplication: " + (n1 * n2);
-  }
-  else if (operation == 4) {
-    if (n2 == 0) {
-      return "Cannot divide by zero";
-    }
-    return "Result of Division: " + (n1 / n2);
-  }
-  else {
-    return "Invalid Operation";
-  }
+//   if (operation == 1) {
+//     return "Result of Addition: " + (n1 + n2);
+//   }
+//   else if (operation == 2) {
+//     return "Result of Subtraction: " + (n1 - n2);
+//   }
+//   else if (operation == 3) {
+//     return "Result of Multiplication: " + (n1 * n2);
+//   }
+//   else if (operation == 4) {
+//     if (n2 == 0) {
+//       return "Cannot divide by zero";
+//     }
+//     return "Result of Division: " + (n1 / n2);
+//   }
+//   else {
+//     return "Invalid Operation";
+//   }
 
-}
+// }
 
 
 // Exercise Five 
 
 // Arrow Function
-let  calculate=()=>{
+// let  calculate=()=>{
   
-  if (isNaN(n1) || isNaN(n2)) {
-    return "Only Numbers are Allowed";
-  }
+//   if (isNaN(n1) || isNaN(n2)) {
+//     return "Only Numbers are Allowed";
+//   }
 
-  if (operation == 1) {
-    return "Result of Addition: " + (n1 + n2);
-  }
-  else if (operation == 2) {
-    return "Result of Subtraction: " + (n1 - n2);
-  }
-  else if (operation == 3) {
-    return "Result of Multiplication: " + (n1 * n2);
-  }
-  else if (operation == 4) {
-    if (n2 == 0) {
-      return "Cannot divide by zero";
-    }
-    return "Result of Division: " + (n1 / n2);
-  }
-  else {
-    return "Invalid Operation";
-  }
+//   if (operation == 1) {
+//     return "Result of Addition: " + (n1 + n2);
+//   }
+//   else if (operation == 2) {
+//     return "Result of Subtraction: " + (n1 - n2);
+//   }
+//   else if (operation == 3) {
+//     return "Result of Multiplication: " + (n1 * n2);
+//   }
+//   else if (operation == 4) {
+//     if (n2 == 0) {
+//       return "Cannot divide by zero";
+//     }
+//     return "Result of Division: " + (n1 / n2);
+//   }
+//   else {
+//     return "Invalid Operation";
+//   }
 
-}
+// }
 
+
+// Exercise Six
+
+let colors=["Green", "Blue","Red"];
+console.log(colors[0])
+console.log(colors[1])
+console.log(colors[2])
 
 
 
