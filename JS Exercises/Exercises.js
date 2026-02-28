@@ -43,11 +43,22 @@
 
 //Exercise Two
 
-let a=15; let b="15";
-console.log(a==b) // True: Checks only. if the values are same
-console.log(a!=b);  // false. coz a and b are same value . so they are equal
-console.log(a===b)  // False. coz same value but different data type
-console.log(a!==b); // True. coze x data type is not equel to y data type 
+// let a=15; let b="15";
+// console.log(a==b) // True: Checks only. if the values are same
+// console.log(a!=b);  // false. coz a and b are same value . so they are equal
+// console.log(a===b)  // False. coz same value but different data type
+// console.log(a!==b); // True. coze x data type is not equel to y data type 
+
+
+// Exercise Three
+
+let isSunny=true; let isWeekend=false;
+console.log(isSunny && isWeekend) // False: you can not go to the beach
+console.log(isSunny|| isWeekend) // true: You can go to the beach 
+console.log(!isSunny)  //False: coz The opposite of True is False
+console.log(!isWeekend) // True: The opposite of false is True
+
+
 
 
 
