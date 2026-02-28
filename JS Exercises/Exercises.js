@@ -179,14 +179,36 @@ let colors=["Green", "Blue","Red"];
 
 // Exercise Eight
 
+// let car={
+//   make:"1919",
+//   name:"Sarif",
+//   color:"White",
+//   start:()=>{
+//     console.log("The Car has Started")
+//   }
+// }
+// console.log(car.make);
+// console.log(car.name);
+// console.log(car.color);
+// console.log(car.start())
+
+
+
+//Exercuse Nine
+
+
 let car={
   make:"1919",
   name:"Sarif",
-  color:"White"
+  color:"White",
+  start:()=>{
+    console.log("The Car has Started")
+  }
 }
 console.log(car.make);
 console.log(car.name);
 console.log(car.color);
+console.log(car.start())
 
 
 
