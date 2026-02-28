@@ -100,6 +100,67 @@ alert(result);
 
 
 
+// Function Expression
+
+let  calculate=function(){
+  
+  if (isNaN(n1) || isNaN(n2)) {
+    return "Only Numbers are Allowed";
+  }
+
+  if (operation == 1) {
+    return "Result of Addition: " + (n1 + n2);
+  }
+  else if (operation == 2) {
+    return "Result of Subtraction: " + (n1 - n2);
+  }
+  else if (operation == 3) {
+    return "Result of Multiplication: " + (n1 * n2);
+  }
+  else if (operation == 4) {
+    if (n2 == 0) {
+      return "Cannot divide by zero";
+    }
+    return "Result of Division: " + (n1 / n2);
+  }
+  else {
+    return "Invalid Operation";
+  }
+
+}
+
+
+// Exercise Five 
+
+// Arrow Function
+let  calculate=()=>{
+  
+  if (isNaN(n1) || isNaN(n2)) {
+    return "Only Numbers are Allowed";
+  }
+
+  if (operation == 1) {
+    return "Result of Addition: " + (n1 + n2);
+  }
+  else if (operation == 2) {
+    return "Result of Subtraction: " + (n1 - n2);
+  }
+  else if (operation == 3) {
+    return "Result of Multiplication: " + (n1 * n2);
+  }
+  else if (operation == 4) {
+    if (n2 == 0) {
+      return "Cannot divide by zero";
+    }
+    return "Result of Division: " + (n1 / n2);
+  }
+  else {
+    return "Invalid Operation";
+  }
+
+}
+
+
 
 
 
