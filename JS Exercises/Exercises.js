@@ -165,9 +165,17 @@
 // Exercise Six
 
 let colors=["Green", "Blue","Red"];
-console.log(colors[0])
-console.log(colors[1])
-console.log(colors[2])
+// console.log(colors[0])
+// console.log(colors[1])
+// console.log(colors[2])
+
+
+//Exercise Seven
+
+colors.push("Black")
+console.log(colors)
+colors.shift("Green");
+console.log(colors)
 
 
 
