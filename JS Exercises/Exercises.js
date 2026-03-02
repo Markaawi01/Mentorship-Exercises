@@ -254,7 +254,13 @@ let colors=["Green", "Blue","Red"];
 
 // Exercise Twelve
 
-let fruits=["Banana","Apple","Mango","Orange","Olive"]
-for(let i=0; i<fruits.length; i++){
-  console.log(fruits[i])
+// let fruits=["Banana","Apple","Mango","Orange","Olive"]
+// for(let i=0; i<fruits.length; i++){
+//   console.log(fruits[i])
+// }
+
+let i=5;
+while(i>0){
+  console.log(i)
+  i--;
 }
