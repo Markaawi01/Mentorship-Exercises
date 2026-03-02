@@ -266,3 +266,12 @@ while(i>0){
   console.log(i)
   i--;
 }
+
+// Exercise Fourteen
+
+let number;
+do{
+  number=prompt("Enter a number greater than 10")
+}while (number<=10);
+
+console.log("Good Luck !")
