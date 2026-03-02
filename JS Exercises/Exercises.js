@@ -216,29 +216,37 @@ let colors=["Green", "Blue","Red"];
 // Exercise Ten
 
 
-let libraray=[
-  {
-    Author:"Mohamed",
-    title:"Trends of Technlogy in the world",
-    year:"2025"
-  },
-  {
-    Author:"Farah",
-    title:"AI In health",
-    year:"2025"
-  },
-  {
-    Author:"Halima",
-    title:"Tresns OF AI In Softeare ENgineering",
-    year:"2026"
-  }
+
+// let libraray=[
+//   {
+//     Author:"Mohamed",
+//     title:"Trends of Technlogy in the world",
+//     year:"2025"
+//   },
+//   {
+//     Author:"Farah",
+//     title:"AI In health",
+//     year:"2025"
+//   },
+//   {
+//     Author:"Halima",
+//     title:"Tresns OF AI In Softeare ENgineering",
+//     year:"2026"
+//   }
   
-]
+// ]
 
 
-console.log(libraray[0].title)
-console.log(libraray[1].Author)
-console.log(libraray[0])
-console.log(libraray[1])
-console.log(libraray[2])
-console.log(libraray[0].Author)
+// console.log(libraray[0].title)
+// console.log(libraray[1].Author)
+// console.log(libraray[0])
+// console.log(libraray[1])
+// console.log(libraray[2])
+// console.log(libraray[0].Author)
+
+
+// Exercise Eleven
+
+for(let i=1; i<=50; i++){
+  console.log(i)
+}
