@@ -259,6 +259,8 @@ let colors=["Green", "Blue","Red"];
 //   console.log(fruits[i])
 // }
 
+// Exercise Thirteen
+
 let i=5;
 while(i>0){
   console.log(i)
