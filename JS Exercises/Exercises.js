@@ -247,6 +247,14 @@ let colors=["Green", "Blue","Red"];
 
 // Exercise Eleven
 
-for(let i=1; i<=50; i++){
-  console.log(i)
+// for(let i=1; i<=50; i++){
+//   console.log(i)
+// }
+
+
+// Exercise Twelve
+
+let fruits=["Banana","Apple","Mango","Orange","Olive"]
+for(let i=0; i<fruits.length; i++){
+  console.log(fruits[i])
 }
