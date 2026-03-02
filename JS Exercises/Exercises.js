@@ -261,17 +261,65 @@ let colors=["Green", "Blue","Red"];
 
 // Exercise Thirteen
 
-let i=5;
-while(i>0){
-  console.log(i)
-  i--;
-}
+// let i=5;
+// while(i>0){
+//   console.log(i)
+//   i--;
+// }
 
 // Exercise Fourteen
 
-let number;
-do{
-  number=prompt("Enter a number greater than 10")
-}while (number<=10);
+// let number;
+// do{
+//   number=prompt("Enter a number greater than 10")
+// }while (number<=10);
 
-console.log("Good Luck !")
+// console.log("Good Luck !")
+
+
+
+// For of Example
+
+// let students=["Ali", "Aish ","Nor "]
+// for(let student of students){
+//   console.log(student)
+// }
+
+
+// let cours="Programming Language Java"
+// for(let c of cours){
+//   console.log(c)
+// }
+
+// Example of For in 
+
+// let students=[
+//   {name:"Farah",age:22,city:"Istanbul"},
+//     {name:"Nor",age:22,city:"Cambala"}
+
+// ]
+// let student;
+// for( student of students){
+//   console.log(student)
+  
+
+// }
+// for(let key in student){
+//   console.log(student[key])
+// }
+
+
+
+// Exercise Fivteen
+let people = [
+  { name: "Ali", age: 22, city: "Mogadishu" },
+  { name: "Omar", age: 34, city: "Kambala" },
+  { name: "Farah", age: 25, city: "Istanbul" }
+];
+
+for (let person of people) {        
+  for (let key in person) {         
+    console.log(key + ": " + person[key]);
+  }
+  console.log("----");             
+}
