@@ -359,8 +359,31 @@ let colors=["Green", "Blue","Red"];
 
 // Exercise Nineteen
 
-let numbers=[1,2,3,4,5]
-numbers.forEach((number)=>{
-  console.log("I like Number "+number)
-})
+// let numbers=[1,2,3,4,5]
+// numbers.forEach((number)=>{
+//   console.log("I like Number "+number)
+// })
+
+// Example :  Map method
+
+// let numbers=[1,2,3,4,5,6];
+
+
+// const newNumbers=numbers.map((number)=>number) // Return Only numbers 1,2,3,4,5,6
+// const newNumbers1=numbers.map((number)=>number*2) // return numbers multiplelied by two 2,,4,6,8,10 .
+// console.log(newNumbers)
+// console.log(newNumbers1)
+
+// Exercise Twenty
+
+let fruits=["anapplee","banana","Cherrey"]
+const newFruits=fruits.map((fruit)=>fruit)
+
+for(let i=0; i<newFruits.length; i++){
+console.log(newFruits[i].length)
+
+}
+
+
+
 
