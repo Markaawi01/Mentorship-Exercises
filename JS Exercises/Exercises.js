@@ -164,7 +164,7 @@
 
 // Exercise Six
 
-let colors=["Green", "Blue","Red"];
+// let colors=["Green", "Blue","Red"];
 // console.log(colors[0])
 // console.log(colors[1])
 // console.log(colors[2])
@@ -403,12 +403,19 @@ let colors=["Green", "Blue","Red"];
 // let sum=numbers.reduce((total,num)=>total+num,0)
 // console.log(sum)
 
-let numbers=[1,2,3,4,5]
-let production=numbers.reduce((total,num)=>total*num,1)
-console.log(production)
+// Exercise Twenty One
+
+// let numbers=[1,2,3,4,5]
+// let production=numbers.reduce((total,num)=>total*num,1)
+// console.log(production)
 
 
+// Execise Twenty Two
 
+let colors=["red","green","blue"]
+
+const[color1,color2,color3]=colors;
+console.log(color1);console.log(color3)
 
 
 
