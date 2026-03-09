@@ -424,6 +424,14 @@ let cars={make:"Toyota",Model:"Crolla",Year:"2022"};
 const {make,Model,year}=cars
 console.log(make);console.log(Model)
 
+// Exercise Twenty Four  (default parameter)
+
+function calculateArea(width,height=width){
+  console.log(`The Aerais: ${width*height}`)
+}
+calculateArea(3)
+
+
 
 
 
