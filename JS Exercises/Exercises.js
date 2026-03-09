@@ -326,10 +326,25 @@ let colors=["Green", "Blue","Red"];
 
 //Exercise Sixsteen
 
-let score=prompt("Enter Your Scopr")
-if(score>50){
-  alert("You Passed")
+// let score=prompt("Enter Your Scopr")
+// if(score>50){
+//   alert("You Passed")
+// }
+// else{
+//   alert("You Failed")
+// }
+// Exercise Seventeen
+
+let tem=prompt("Enter The Temperature")
+if(tem<=0){
+  alert("It is Very Cold")
 }
-else{
-  alert("You Failed")
+else if(tem>0 & tem<20){
+  alert("it is Cold")
+}
+else if(tem>20&tem<25){
+  alert("It is Warm")
+}
+else if(tem>25){
+  alert("It is Hot")
 }
