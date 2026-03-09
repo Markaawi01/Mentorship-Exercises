@@ -352,7 +352,15 @@ let colors=["Green", "Blue","Red"];
 
 // Exercise Eighteen
 
-let grade=prompt("Enter YOur Grade")
+// let grade=prompt("Enter YOur Grade")
 
-const message=grade>=60?"You Passed":"You faled";
-alert(message)
+// const message=grade>=60?"You Passed":"You faled";
+// alert(message)
+
+// Exercise Nineteen
+
+let numbers=[1,2,3,4,5]
+numbers.forEach((number)=>{
+  console.log("I like Number "+number)
+})
+
