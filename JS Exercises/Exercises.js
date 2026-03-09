@@ -311,15 +311,25 @@ let colors=["Green", "Blue","Red"];
 
 
 // Exercise Fivteen
-let people = [
-  { name: "Ali", age: 22, city: "Mogadishu" },
-  { name: "Omar", age: 34, city: "Kambala" },
-  { name: "Farah", age: 25, city: "Istanbul" }
-];
+// let people = [
+//   { name: "Ali", age: 22, city: "Mogadishu" },
+//   { name: "Omar", age: 34, city: "Kambala" },
+//   { name: "Farah", age: 25, city: "Istanbul" }
+// ];
 
-for (let person of people) {        
-  for (let key in person) {         
-    console.log(key + ": " + person[key]);
-  }
-  console.log("----");             
+// for (let person of people) {        
+//   for (let key in person) {         
+//     console.log(key + ": " + person[key]);
+//   }
+//   console.log("----");             
+// }
+
+//Exercise Sixsteen
+
+let score=prompt("Enter Your Scopr")
+if(score>50){
+  alert("You Passed")
+}
+else{
+  alert("You Failed")
 }
