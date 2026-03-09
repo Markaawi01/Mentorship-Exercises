@@ -412,10 +412,18 @@
 
 // Execise Twenty Two
 
-let colors=["red","green","blue"]
+// let colors=["red","green","blue"]
 
-const[color1,color2,color3]=colors;
-console.log(color1);console.log(color3)
+// const[color1,color2,color3]=colors;
+// console.log(color1);console.log(color3)
+
+// Exercise Twenty Three
+
+let cars={make:"Toyota",Model:"Crolla",Year:"2022"};
+
+const {make,Model,year}=cars
+console.log(make);console.log(Model)
+
 
 
 
