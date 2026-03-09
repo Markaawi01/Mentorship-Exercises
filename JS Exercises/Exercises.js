@@ -426,10 +426,41 @@ console.log(make);console.log(Model)
 
 // Exercise Twenty Four  (default parameter)
 
-function calculateArea(width,height=width){
-  console.log(`The Aerais: ${width*height}`)
+// function calculateArea(width,height=width){
+//   console.log(`The Aerais: ${width*height}`)
+// }
+// calculateArea(3)
+
+// // Example of Spread and Rest Operators
+
+// let numbers=[1,2,3,4,5,6,7];
+// const allNumbers=[...numbers, 8,9,10]
+// console.log(allNumbers)
+
+// Rest operator
+
+// function sum(...numbers){
+//   return numbers.reduce((total,num)=>total+num,0)
+
+// }
+// console.log(sum(10,10,10))
+
+
+
+// Exercise Tweenty Five
+
+let numbers=[10,11,12,13,14,15];
+const allNumbers=[...numbers, 16,17,18,19,20]
+console.log(allNumbers)
+
+function multiplication(...numbers){
+  return numbers.reduce((total,num)=>total*num,1)
+
 }
-calculateArea(3)
+console.log(multiplication(1,2,3,4,5))
+
+
+
 
 
 
