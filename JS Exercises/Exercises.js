@@ -335,16 +335,32 @@ let colors=["Green", "Blue","Red"];
 // }
 // Exercise Seventeen
 
-let tem=prompt("Enter The Temperature")
-if(tem<=0){
-  alert("It is Very Cold")
-}
-else if(tem>0 & tem<20){
-  alert("it is Cold")
-}
-else if(tem>20&tem<25){
-  alert("It is Warm")
-}
-else if(tem>25){
-  alert("It is Hot")
-}
+// let tem=prompt("Enter The Temperature")
+// if(tem<=0){
+//   alert("It is Very Cold")
+// }
+// else if(tem>0 & tem<20){
+//   alert("it is Cold")
+// }
+// else if(tem>20&tem<25){
+//   alert("It is Warm")
+// }
+// else if(tem>25){
+//   alert("It is Hot")
+// }
+
+
+// Exercise Eighteen
+
+// let grade=prompt("Enter YOur Grade")
+
+// const message=grade>=60?"You Passed":"You faled";
+// alert(message)
+
+// Exercise Nineteen
+
+let numbers=[1,2,3,4,5]
+numbers.forEach((number)=>{
+  console.log("I like Number "+number)
+})
+
