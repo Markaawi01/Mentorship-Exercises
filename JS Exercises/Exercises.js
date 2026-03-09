@@ -376,13 +376,40 @@ let colors=["Green", "Blue","Red"];
 
 // Exercise Twenty
 
-let fruits=["anapplee","banana","Cherrey"]
-const newFruits=fruits.map((fruit)=>fruit)
+// let fruits=["anapplee","banana","Cherrey"]
+// const newFruits=fruits.map((fruit)=>fruit)
 
-for(let i=0; i<newFruits.length; i++){
-console.log(newFruits[i].length)
+// for(let i=0; i<newFruits.length; i++){
+// console.log(newFruits[i].length)
 
-}
+// }
+
+// Example  filter()
+
+// let numbers=[1,2,3,4,5,6,7,8,9,10]
+// const evenNumbers=numbers.filter((number)=>number%2==0)
+// console.log(evenNumbers)
+
+
+// let grades=[20,30,40,50,60,70,80,90,100]
+// let passedgrades=grades.filter((grade)=>grade>=60)
+// console.log(passedgrades)
+
+
+// Example  reduce()
+
+
+// let numbers=[1,2,3,4,5]
+// let sum=numbers.reduce((total,num)=>total+num,0)
+// console.log(sum)
+
+let numbers=[1,2,3,4,5]
+let production=numbers.reduce((total,num)=>total*num,1)
+console.log(production)
+
+
+
+
 
 
 
