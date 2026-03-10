@@ -500,20 +500,64 @@
 
 // Non blocking Function
 
-function reciveData(callback){
+// function reciveData(callback){
 
-  setTimeout(() => {
-    const user={id:5566,name:"Xalimo"}
-    callback(user)
+//   setTimeout(() => {
+//     const user={id:5566,name:"Xalimo"}
+//     callback(user)
     
-  }, 2000);
+//   }, 2000);
+
+// }
+
+// reciveData(function(user){
+//   console.log(user)
+
+// })
+
+// Example of Promis
+
+// function fetchUserData(){
+// return new Promise((resolove, reject)=>{
+//       setTimeout(() => {
+//       const success=false;
+//       if(success){
+//         resolove({id:2233,name:"Farax"})
+//       }
+//       else{
+//         reject("Failed to fetch user data")
+//       }
+//     },2000);
+
+//   })
+
+// }
+
+// fetchUserData().then((data)=>console.log("User Data",data))
+// .catch((err)=>console.log(err))
+
+// Exercise Twenty Seven
+
+function getUserData(){
+ return new Promise((resolove,reject)=>{
+  setTimeout(() => {
+    const success=true;
+    if(success){
+      resolove({id:2233,name:"Ali"})
+    }
+    else{
+      reject("Failed to get user data")
+    }
+    
+  }, 3000);
+
+ })
 
 }
 
-reciveData(function(user){
-  console.log(user)
+getUserData().then((data)=>console.log(data)).catch((err)=>console.log(err))
 
-})
+
 
 
 
