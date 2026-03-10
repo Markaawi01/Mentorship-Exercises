@@ -541,9 +541,9 @@
 function getUserData(){
  return new Promise((resolove,reject)=>{
   setTimeout(() => {
-    const success=true;
+    const success=false;
     if(success){
-      resolove({id:2233,name:"Ali"})
+      resolove({id:2233,name:"salad"})
     }
     else{
       reject("Failed to get user data")
@@ -555,7 +555,23 @@ function getUserData(){
 
 }
 
-getUserData().then((data)=>console.log(data)).catch((err)=>console.log(err))
+// getUserData().then((data)=>console.log(data)).catch((err)=>console.log(err))
+
+// Exercise Twenty Eight
+
+ async function displayUserData(){
+  try{
+  const user =await getUserData();
+  console.log(user)
+
+}catch(err){
+    console.log(err)
+ }
+ }
+
+ displayUserData();
+
+
 
 
 
