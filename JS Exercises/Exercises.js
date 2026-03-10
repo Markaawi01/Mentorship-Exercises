@@ -419,10 +419,10 @@
 
 // Exercise Twenty Three
 
-let cars={make:"Toyota",Model:"Crolla",Year:"2022"};
+// let cars={make:"Toyota",Model:"Crolla",Year:"2022"};
 
-const {make,Model,year}=cars
-console.log(make);console.log(Model)
+// const {make,Model,year}=cars
+// console.log(make);console.log(Model)
 
 // Exercise Twenty Four  (default parameter)
 
@@ -449,18 +449,71 @@ console.log(make);console.log(Model)
 
 // Exercise Tweenty Five
 
-let numbers=[10,11,12,13,14,15];
-const allNumbers=[...numbers, 16,17,18,19,20]
-console.log(allNumbers)
+// let numbers=[10,11,12,13,14,15];
+// const allNumbers=[...numbers, 16,17,18,19,20]
+// console.log(allNumbers)
 
-function multiplication(...numbers){
-  return numbers.reduce((total,num)=>total*num,1)
+// function multiplication(...numbers){
+//   return numbers.reduce((total,num)=>total*num,1)
+
+// }
+// console.log(multiplication(1,2,3,4,5))
+
+// Example of A syncronous
+
+// function fetchUserDataSync(){
+//   alert("Feching the user Data")
+//   return {id:2233, name:"Omar"}
+// }
+// console.log("Starting the user data")
+// const user=fetchUserDataSync();
+// console.log("user data:", user)
+// console.log("The messeg is blocking utill the user data is fetched")
+
+
+
+
+
+// function getUserData(callback){
+
+//   setTimeout(()=>{
+//     const user={id:2233, name:"Ali"}
+//     callback(user)
+// },3000)
+// }
+
+// getUserData(function(user){
+//   console.log(user)
+// })
+
+
+
+// Exercise 26: Blcoking Function
+
+// function gettingAPI(){
+//   alert("found API Data")
+//   return {user:"Nor",tell:"6543232"}
+// }
+// console.log("Getting APIs From the web")
+// const user=gettingAPI()
+// console.log("Here is the data gotten form the  API",user)
+
+// Non blocking Function
+
+function reciveData(callback){
+
+  setTimeout(() => {
+    const user={id:5566,name:"Xalimo"}
+    callback(user)
+    
+  }, 2000);
 
 }
-console.log(multiplication(1,2,3,4,5))
 
+reciveData(function(user){
+  console.log(user)
 
-
+})
 
 
 
