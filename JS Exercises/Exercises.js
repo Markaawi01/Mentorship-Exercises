@@ -559,17 +559,46 @@ function getUserData(){
 
 // Exercise Twenty Eight
 
- async function displayUserData(){
-  try{
-  const user =await getUserData();
-  console.log(user)
+//  async function displayUserData(){
+//   try{
+//   const user =await getUserData();
+//   console.log(user)
 
-}catch(err){
-    console.log(err)
- }
+// }catch(err){
+//     console.log(err)
+//  }
+//  }
+
+//  displayUserData();
+
+
+ // Example of Fetchng Data 
+
+//  async function fetchData(){
+//   console.log("Star Fetchting Data")
+//   const response =await fetch('data.json')
+//   const data=await response.json();
+//   console.log(data)
+//   console.log("Fetcing Data Complet ")
+
+//  }
+
+//  fetchData();
+
+ // Exercise Twenty Nine
+
+ 
+ async function fetchData(){
+  console.log("Star Fetchting Data")
+  const response =await fetch('data.json')
+  const data=await response.json();
+  console.log(data)
+  console.log("Fetcing Data Complet ")
+
  }
 
- displayUserData();
+ fetchData();
+
 
 
 
