@@ -1,0 +1,12 @@
+
+
+{
+  "id":1,
+  "name":"Farah",
+  "city":"Mogadishu",
+  "order":[
+    {"id":1,"prodcut_name":"laptop","qunatity":1},
+    {"id":2,"prodcut_name":"iphone17","qunatity":2}
+  ]
+
+}
