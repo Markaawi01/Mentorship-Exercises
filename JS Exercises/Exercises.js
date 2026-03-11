@@ -588,16 +588,44 @@ function getUserData(){
  // Exercise Twenty Nine
 
  
- async function fetchData(){
-  console.log("Star Fetchting Data")
-  const response =await fetch('data.json')
-  const data=await response.json();
-  console.log(data)
-  console.log("Fetcing Data Complet ")
+//  async function fetchData(){
+//   console.log("Star Fetchting Data")
+//   const response =await fetch('data.json')
+//   const data=await response.json();
+//   console.log(data)
+//   console.log("Fetcing Data Complet ")
 
+//  }
+
+//  fetchData();
+
+ // More On Call Back Examples
+
+ function operate(a,b,callback){
+  return callback(a,b)
+ }
+ function add(a,b){
+  return a+b
  }
 
- fetchData();
+ function subtruct (a,b){
+  return a-b
+ }
+
+ // Exercise Thirty
+
+ function multiply(a,b){
+  return a*b
+ }
+
+ function divide(a,b){
+  return a/b
+ }
+
+ console.log("Addition",operate(5,2,add))
+ console.log("Subtruction",operate(3,2,subtruct))
+ console.log("Multiplicaion",operate(4,4,multiply))
+ console.log("Devision",operate(10,2,divide))
 
 
 
