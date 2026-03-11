@@ -601,33 +601,108 @@ function getUserData(){
 
  // More On Call Back Examples
 
- function operate(a,b,callback){
-  return callback(a,b)
- }
- function add(a,b){
-  return a+b
- }
+//  function operate(a,b,callback){
+//   return callback(a,b)
+//  }
+//  function add(a,b){
+//   return a+b
+//  }
 
- function subtruct (a,b){
-  return a-b
- }
+//  function subtruct (a,b){
+//   return a-b
+//  }
 
- // Exercise Thirty
+//  // Exercise Thirty
 
- function multiply(a,b){
-  return a*b
- }
+//  function multiply(a,b){
+//   return a*b
+//  }
 
- function divide(a,b){
-  return a/b
- }
+//  function divide(a,b){
+//   return a/b
+//  }
 
- console.log("Addition",operate(5,2,add))
- console.log("Subtruction",operate(3,2,subtruct))
- console.log("Multiplicaion",operate(4,4,multiply))
- console.log("Devision",operate(10,2,divide))
+//  console.log("Addition",operate(5,2,add))
+//  console.log("Subtruction",operate(3,2,subtruct))
+//  console.log("Multiplicaion",operate(4,4,multiply))
+//  console.log("Devision",operate(10,2,divide))
 
 
+// HTTP REQUEST
+
+async function fetchData(){
+
+try {
+  console.log("Start Feching Data")
+  const response= await fetch('https://jsonplaceholder.typicode.com/posts')
+  if(!response.ok){
+    throw new Error(`Failed to Fetch Data Http Error ${reponse.status}`)
+  }
+
+  const data=await response.json();
+  console.log(data)
+  
+} catch (error) {
+  console.log(error)
+  
+}
+
+}
+
+//fetchData()
+
+// Making http request  uing Post method
+
+// async function postData(){
+
+//   try {
+//     const response=await fetch('https://jsonplaceholder.typicode.com/posts',{
+//       method:'POST',
+//       body:JSON.stringify({
+//         title:'Web Dev Farah',
+//         body:'It is one of the most skills intended to  develop webs',
+//         userID:1
+//       }),
+//       headers:{
+//         'Content-type': 'application/json; charset=UTF-8'
+//       }
+
+//     })
+
+//     if(!response.ok){
+//       throw new Error(`Http Error ${response.status}`)
+//     }
+//      console.log("Before Json ",response)
+//     const data = await response.json();
+//     console.log(data)
+    
+//   } catch (error) {
+//     console.log(error)
+    
+//   }
+// }
+//postData();
+
+
+// Exercise Thirty One
+async function getUsers(){
+  try {
+    const response=await fetch('https://jsonplaceholder.typicode.com/users')
+    console.log("Start Fetching Data")
+    if(!response.ok){
+      throw new Error("Http Error",response.status)
+    }
+
+    const data=await response.json();
+    console.log(data)
+    
+  } catch (error) {
+    console.log(error)
+    
+  }
+}
+
+getUsers();
 
 
 
