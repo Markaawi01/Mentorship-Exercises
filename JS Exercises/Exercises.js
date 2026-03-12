@@ -702,10 +702,13 @@ async function getUsers(){
   }
 }
 
-getUsers();
+// getUsers();
 
 
-
+const para=document.querySelector('#pp')
+console.log(para)
+const paras=document.querySelectorAll('.ppp')[0]
+console.log(paras)
 
 
 
