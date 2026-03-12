@@ -716,6 +716,39 @@ heading1.textContent="Wellcomet  to my First Web Page "
 
 }
 
+const list=document.querySelector('#list')
+
+function addItem(){
+const list=document.querySelector('#list')
+const newItem=document.createElement('li')
+newItem.textContent='Item3'
+list.appendChild(newItem)
+// console.log(newItem)
+}
+
+function removeEelement(){
+ if(list.lastChild){
+  list.removeChild(list.lastChild)
+
+ }
+}
+
+
+// Exercise Thirty Four
+
+const mylist=document.querySelector('#mylist')
+function addNewSubject(){
+  const newSubject=document.createElement('li')
+  newSubject.textContent='New Subject'
+  mylist.appendChild(newSubject)
+}
+
+function removeSubject(){
+  if(mylist.lastChild){
+      mylist.removeChild(mylist.lastChild)
+
+  }
+}
 
 
 
