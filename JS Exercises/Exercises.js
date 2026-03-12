@@ -710,6 +710,12 @@ console.log(para)
 const paras=document.querySelectorAll('.ppp')[0]
 console.log(paras)
 
+const heading1=document.querySelector('#heading1')
+function changeContent(){
+heading1.textContent="Wellcomet  to my First Web Page "
+
+}
+
 
 
 
