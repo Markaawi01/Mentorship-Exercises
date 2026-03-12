@@ -751,6 +751,36 @@ function removeSubject(){
 }
 
 
+function changeImage(){
+  const img=document.querySelector('#img')
+  const url=prompt("Enter The Url of The Image")
+  img.setAttribute('src', url)
+}
+
+// Exercise  Thirty Five
+
+function changeImage(){
+
+  const img = document.querySelector('#img')
+
+  const url = prompt("Enter the URL of the image")
+  const border = prompt("Enter the border size (example: 2)")
+  const color = prompt("Enter the border color")
+  const border_radius = prompt("Enter the border radius (example: 10)")
+  const img_width = prompt("Enter the width of the image (example: 400)")
+  const img_height = prompt("Enter the height of the image (example: 300)")
+
+  img.setAttribute('src', url)
+
+  img.style.border = border + "px solid " + color
+  img.style.borderRadius = border_radius + "px"
+  img.style.width = img_width + "px"
+  img.style.height = img_height + "px"
+
+}
+
+
+
 
 
 
