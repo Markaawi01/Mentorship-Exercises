@@ -636,7 +636,7 @@ try {
   console.log("Start Feching Data")
   const response= await fetch('https://jsonplaceholder.typicode.com/posts')
   if(!response.ok){
-    throw new Error(`Failed to Fetch Data Http Error ${reponse.status}`)
+    throw new Error(`Failed to Fetch Data Http Error ${response.status}`)
   }
 
   const data=await response.json();
@@ -685,103 +685,214 @@ try {
 
 
 // Exercise Thirty One
-async function getUsers(){
-  try {
-    const response=await fetch('https://jsonplaceholder.typicode.com/users')
-    console.log("Start Fetching Data")
-    if(!response.ok){
-      throw new Error("Http Error",response.status)
-    }
+// async function getUsers(){
+//   try {
+//     const response=await fetch('https://jsonplaceholder.typicode.com/users')
+//     console.log("Start Fetching Data")
+//     if(!response.ok){
+//       throw new Error("Http Error",response.status)
+//     }
 
-    const data=await response.json();
-    console.log(data)
+//     const data=await response.json();
+//     console.log(data)
     
-  } catch (error) {
-    console.log(error)
+//   } catch (error) {
+//     console.log(error)
     
-  }
-}
+//   }
+// }
 
-// getUsers();
+// // getUsers();
 
 
-const para=document.querySelector('#pp')
-console.log(para)
-const paras=document.querySelectorAll('.ppp')[0]
-console.log(paras)
+// const para=document.querySelector('#pp')
+// console.log(para)
+// const paras=document.querySelectorAll('.ppp')[0]
+// console.log(paras)
 
-const heading1=document.querySelector('#heading1')
-function changeContent(){
-heading1.textContent="Wellcomet  to my First Web Page "
+// const heading1=document.querySelector('#heading1')
+// function changeContent(){
+// heading1.textContent="Wellcomet  to my First Web Page "
 
-}
+// }
 
-const list=document.querySelector('#list')
+// const list=document.querySelector('#list')
 
-function addItem(){
-const list=document.querySelector('#list')
-const newItem=document.createElement('li')
-newItem.textContent='Item3'
-list.appendChild(newItem)
-// console.log(newItem)
-}
+// function addItem(){
+// const list=document.querySelector('#list')
+// const newItem=document.createElement('li')
+// newItem.textContent='Item3'
+// list.appendChild(newItem)
+// // console.log(newItem)
+// }
 
-function removeEelement(){
- if(list.lastChild){
-  list.removeChild(list.lastChild)
+// function removeEelement(){
+//  if(list.lastChild){
+//   list.removeChild(list.lastChild)
 
- }
-}
+//  }
+// }
 
 
 // Exercise Thirty Four
 
-const mylist=document.querySelector('#mylist')
-function addNewSubject(){
-  const newSubject=document.createElement('li')
-  newSubject.textContent='New Subject'
-  mylist.appendChild(newSubject)
-}
+// const mylist=document.querySelector('#mylist')
+// function addNewSubject(){
+//   const newSubject=document.createElement('li')
+//   newSubject.textContent='New Subject'
+//   mylist.appendChild(newSubject)
+// }
 
-function removeSubject(){
-  if(mylist.lastChild){
-      mylist.removeChild(mylist.lastChild)
+// function removeSubject(){
+//   if(mylist.lastChild){
+//       mylist.removeChild(mylist.lastChild)
 
-  }
-}
+//   }
+// }
 
 
-function changeImage(){
-  const img=document.querySelector('#img')
-  const url=prompt("Enter The Url of The Image")
-  img.setAttribute('src', url)
-}
+// function changeImage(){
+//   const img=document.querySelector('#img')
+//   const url=prompt("Enter The Url of The Image")
+//   img.setAttribute('src', url)
+// }
 
 // Exercise  Thirty Five
 
-function changeImage(){
+// function changeImage(){
 
-  const img = document.querySelector('#img')
+//   const img = document.querySelector('#img')
 
-  const url = prompt("Enter the URL of the image")
-  const border = prompt("Enter the border size (example: 2)")
-  const color = prompt("Enter the border color")
-  const border_radius = prompt("Enter the border radius (example: 10)")
-  const img_width = prompt("Enter the width of the image (example: 400)")
-  const img_height = prompt("Enter the height of the image (example: 300)")
+//   const url = prompt("Enter the URL of the image")
+//   const border = prompt("Enter the border size (example: 2)")
+//   const color = prompt("Enter the border color")
+//   const border_radius = prompt("Enter the border radius (example: 10)")
+//   const img_width = prompt("Enter the width of the image (example: 400)")
+//   const img_height = prompt("Enter the height of the image (example: 300)")
 
-  img.setAttribute('src', url)
+//   img.setAttribute('src', url)
 
-  img.style.border = border + "px solid " + color
-  img.style.borderRadius = border_radius + "px"
-  img.style.width = img_width + "px"
-  img.style.height = img_height + "px"
+//   img.style.border = border + "px solid " + color
+//   img.style.borderRadius = border_radius + "px"
+//   img.style.width = img_width + "px"
+//   img.style.height = img_height + "px"
 
-}
-
-
+// }
 
 
 
+// Understanding Event Listenr
 
 
+
+// const myButton=document.querySelector('#myButton');
+
+// function handleClick(){
+//   console.log("You clicked")
+  
+// }
+// myButton.addEventListener('click',handleClick)
+
+// const myButton2=document.querySelector('#myButton2');
+
+// myButton2.addEventListener('click',function(){
+//   myButton.removeEventListener('click',handleClick)
+//   console.log("You removed the event from the buttono Addevent")
+
+// })
+
+
+// const color=document.querySelector('#color');
+// const selectedcolor=document.querySelector('#selectedColor')
+
+// color.addEventListener('change',function(){
+//   console.log(`Chanded the color to ${color.value}`)
+//   selectedcolor.textContent=`Selected Color is ${color.value}`
+// })
+
+
+// const username=document.querySelector('#username')
+// const  currentUsername=document.querySelector('#currentUsername')
+
+// username.addEventListener('change',function(){
+//   currentUsername.textContent=`Current User name is: ${username.value}`
+// })
+
+
+// const myForm=document.querySelector('#myForm')
+// const forMessage=document.querySelector('#forMessage')
+// const name=document.querySelector('#name')
+
+// myForm.addEventListener('submit',function(event){
+//   event.preventDefault();
+//   console.log("Submitted The Form")
+//   forMessage.textContent=`Submited The Form`
+// })
+
+
+
+// const form=document.querySelector('#form')
+
+// form.addEventListener("submit",function(event){
+//   event.preventDefault();
+//   const username=document.querySelector('#username').value;
+//   const email=document.querySelector('#email').value;
+//   const password=document.querySelector('#password').value;
+//   const confirmPassword=document.querySelector('#confirmPassword').value;
+
+//   const reg_messege=document.querySelector('#reg_messege')
+
+//   if(username===''){
+//       reg_messege.textContent="User name is required";
+//       console.log("User name is required")
+//       return;
+//   }
+  
+//      reg_messege.textContent="Registration Success Full"
+//      console.log("Registration Success Full")
+
+
+  
+
+
+
+// })
+
+
+
+// const form = document.querySelector('#form');
+// const reg_messege = document.querySelector('#reg_messege');
+// form.addEventListener("submit", function(event){
+//   event.preventDefault();
+// const username = document.querySelector('#username').value;
+// if(username===''){
+//       reg_messege.textContent = "User name is required";
+//       console.log("User name is required");
+//       return;
+//   }
+
+//   reg_messege.textContent = "Registration Successful";
+//   console.log("Registration Successful");
+// });
+
+
+const color=document.querySelector('#color');
+const perview_color=document.querySelector('#color-perview')
+const store_color_history=document.querySelector('#store-color-history')
+const clear_history=document.querySelector('#clear_history')
+color.addEventListener('change',function(){
+  const choosen_color=color.value;
+  perview_color.style.backgroundColor=choosen_color;
+  const newColor = document.createElement('p');
+  newColor.textContent = choosen_color;
+  newColor.style.color = choosen_color;
+  store_color_history.appendChild(newColor);
+
+
+
+
+})
+clear_history.addEventListener('click',function(){
+  store_color_history.textContent=""
+
+})

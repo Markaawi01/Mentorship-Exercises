@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color Picker</title>
+  <style>
+    #color-perview{
+      width: 150px;
+      height: 100px;
+      margin-top: 20px;
+      border: 1px  solid;
+
+      display: flex;
+      justify-content: center;  /* horizontal center */
+      align-items: center;      /* vertical center */
+  }
+  </style>
+</head>
+<body>
+  <h1>Interactive Color Picker</h1>
+  <label for="color">Choose a Color</label>
+  <input type="color" name="" id="color">
+  <div id="color-perview">
+   <p id="par">Color Perview</p> 
+  </div>
+  <h2>Color Histero</h2>
+  <div id="store-color-history"></div>
+
+  <button id="clear_history">Clear History</button>
+
+  <script src="./Exercises.js"></script>
+  
+</body>
+</html>
