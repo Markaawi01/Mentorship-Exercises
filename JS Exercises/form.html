@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test</title>
+
+  <style>
+
+    .valid{
+      border: 2px solid green;
+    }
+    .invalid{
+      border: 2px solid red;
+    }
+
+    input{
+      outline: none;
+    }
+  </style>
+</head>
+<body>
+
+  <form id="form">
+<label for="username">User Name</label><br>
+<input type="text" class="" id="username"><br>
+<label for="email">Email</label><br>
+<input type="email" id="email"><br>
+<label for="password">Password</label><br>
+<input type="password" id="password"><br>
+<label for="confirmPassword">Confirm Passowrd</label><br>
+<input type="password" name="" id="confirmPassword"><br>
+<button type="submit">Registration</button>
+
+</form>
+<p id="error" style="color: red;"></p>
+<p id="success" style="color: green;"></p>
+
+
+  <script src="./form.js"></script>
+</body>
+</html>
