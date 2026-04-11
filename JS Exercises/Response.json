@@ -1,0 +1,1372 @@
+{
+  "meta": {
+    "channelId": "UCTwECeGqMZee77BjdoYtI2Q",
+    "title": "Creative Commons",
+    "description": "A nonprofit building a vibrant, collaborative global commons through CC licenses, programs, and a growing network. \n\nImage: Lukas Schlagenhauf (CC BY-ND 2.0)",
+    "thumbnail": [
+      {
+        "url": "https://yt3.googleusercontent.com/ytc/AIdro_lSk0TpqM-SxI52i5LwI00Y_84Dd-2NLmGa8CsSNoFDF7E=s72-c-k-c0x00ffffff-no-rj",
+        "width": 72,
+        "height": 72
+      },
+      {
+        "url": "https://yt3.googleusercontent.com/ytc/AIdro_lSk0TpqM-SxI52i5LwI00Y_84Dd-2NLmGa8CsSNoFDF7E=s120-c-k-c0x00ffffff-no-rj",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "url": "https://yt3.googleusercontent.com/ytc/AIdro_lSk0TpqM-SxI52i5LwI00Y_84Dd-2NLmGa8CsSNoFDF7E=s160-c-k-c0x00ffffff-no-rj",
+        "width": 160,
+        "height": 160
+      }
+    ],
+    "metaD": "PHR",
+    "image": {
+      "banner": [
+        {
+          "url": "https://yt3.googleusercontent.com/47g4qT9uOn5NW-OCEYnuoHThMZhorYw9WDPFOOquPKLlCaMxnj5vKfnWsFpTOusDzui5Nkz3wA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "width": 1060,
+          "height": 175
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/47g4qT9uOn5NW-OCEYnuoHThMZhorYw9WDPFOOquPKLlCaMxnj5vKfnWsFpTOusDzui5Nkz3wA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "width": 1138,
+          "height": 188
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/47g4qT9uOn5NW-OCEYnuoHThMZhorYw9WDPFOOquPKLlCaMxnj5vKfnWsFpTOusDzui5Nkz3wA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "width": 1707,
+          "height": 283
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/47g4qT9uOn5NW-OCEYnuoHThMZhorYw9WDPFOOquPKLlCaMxnj5vKfnWsFpTOusDzui5Nkz3wA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "width": 2120,
+          "height": 351
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/47g4qT9uOn5NW-OCEYnuoHThMZhorYw9WDPFOOquPKLlCaMxnj5vKfnWsFpTOusDzui5Nkz3wA=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "width": 2276,
+          "height": 377
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/47g4qT9uOn5NW-OCEYnuoHThMZhorYw9WDPFOOquPKLlCaMxnj5vKfnWsFpTOusDzui5Nkz3wA=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "width": 2560,
+          "height": 424
+        }
+      ]
+    },
+    "channelHandle": "@creativecommons",
+    "keywords": [
+      "creative commons",
+      "remix",
+      "culture",
+      "nonprofit"
+    ],
+    "isFamilySafe": true,
+    "availableCountries": [
+      "AL",
+      "AM",
+      "TR",
+      "CI",
+      "DJ",
+      "GF",
+      "NR",
+      "MT",
+      "VI",
+      "PK",
+      "PW",
+      "SJ",
+      "NG",
+      "AU",
+      "AT",
+      "HT",
+      "BM",
+      "IO",
+      "LB",
+      "SH",
+      "GP",
+      "BZ",
+      "FM",
+      "SN",
+      "SO",
+      "UZ",
+      "JP",
+      "SC",
+      "YE",
+      "NI",
+      "MU",
+      "NA",
+      "BL",
+      "SD",
+      "NL",
+      "SB",
+      "LR",
+      "PE",
+      "MD",
+      "RU",
+      "SE",
+      "GG",
+      "MV",
+      "PA",
+      "PN",
+      "DK",
+      "DE",
+      "TZ",
+      "IS",
+      "IR",
+      "TJ",
+      "ZM",
+      "BD",
+      "PL",
+      "BJ",
+      "TK",
+      "TD",
+      "RS",
+      "ER",
+      "FK",
+      "CV",
+      "ML",
+      "BR",
+      "KI",
+      "MN",
+      "AW",
+      "LK",
+      "SG",
+      "AO",
+      "KW",
+      "CU",
+      "PR",
+      "RO",
+      "SR",
+      "EH",
+      "CL",
+      "CD",
+      "ES",
+      "GI",
+      "MA",
+      "DM",
+      "BV",
+      "FO",
+      "TH",
+      "AE",
+      "KH",
+      "CM",
+      "GM",
+      "GN",
+      "VU",
+      "JM",
+      "PG",
+      "IT",
+      "CR",
+      "MH",
+      "RW",
+      "BO",
+      "AS",
+      "PF",
+      "VN",
+      "CZ",
+      "GT",
+      "LI",
+      "NC",
+      "FI",
+      "NE",
+      "GE",
+      "AQ",
+      "KY",
+      "MR",
+      "NZ",
+      "CK",
+      "LV",
+      "PM",
+      "TC",
+      "BI",
+      "CY",
+      "GW",
+      "JE",
+      "AG",
+      "VA",
+      "JO",
+      "BT",
+      "LY",
+      "DZ",
+      "SI",
+      "KZ",
+      "FR",
+      "SS",
+      "TW",
+      "SV",
+      "BG",
+      "BQ",
+      "UM",
+      "TO",
+      "GB",
+      "GU",
+      "SM",
+      "CC",
+      "BW",
+      "CA",
+      "AD",
+      "KM",
+      "WS",
+      "MS",
+      "SL",
+      "UA",
+      "VE",
+      "ET",
+      "BE",
+      "MF",
+      "GD",
+      "CH",
+      "PY",
+      "BS",
+      "HM",
+      "KE",
+      "ID",
+      "PT",
+      "BF",
+      "TG",
+      "IE",
+      "WF",
+      "NU",
+      "TV",
+      "MZ",
+      "LA",
+      "ZW",
+      "KR",
+      "BA",
+      "UG",
+      "MQ",
+      "TL",
+      "SX",
+      "CO",
+      "VG",
+      "YT",
+      "EE",
+      "MW",
+      "GQ",
+      "TF",
+      "BN",
+      "HN",
+      "AZ",
+      "TN",
+      "DO",
+      "MY",
+      "AF",
+      "EC",
+      "CF",
+      "LS",
+      "NP",
+      "ZA",
+      "NO",
+      "SA",
+      "SK",
+      "ST",
+      "CX",
+      "GL",
+      "MG",
+      "LU",
+      "TM",
+      "LC",
+      "MK",
+      "NF",
+      "AX",
+      "FJ",
+      "US",
+      "BH",
+      "SY",
+      "MX",
+      "PH",
+      "MO",
+      "LT",
+      "GR",
+      "QA",
+      "UY",
+      "CG",
+      "GH",
+      "MP",
+      "HU",
+      "CN",
+      "CW",
+      "KN",
+      "GS",
+      "HK",
+      "MC",
+      "KG",
+      "BY",
+      "BB",
+      "GY",
+      "SZ",
+      "IQ",
+      "EG",
+      "KP",
+      "OM",
+      "TT",
+      "MM",
+      "IL",
+      "ME",
+      "RE",
+      "IN",
+      "PS",
+      "GA",
+      "AI",
+      "AR",
+      "IM",
+      "VC",
+      "HR"
+    ]
+  },
+  "continuation": "4qmFsgLVCRIYVUNUd0VDZUdxTVplZTc3Qmpkb1l0STJRGrgJOGdhR0J4cURCM3FBQnlBRU92c0dDaVEyT1dabU9EY3dPQzB3TURBd0xUSXdNMkV0WWpOaVlpMWtOR1kxTkRkbU1ESXhOalFTMEFaQlkzRjVXV3Q2TjBKdlJXdHVlbDk1VEZaelpHcHVka1owVlZKb1FUVm5RbFkyYUd4UVlXbENWRU5tWmpoMVFXSTFXRWQzYWxCeGVtWnNMWEIyVUU1dk5IUnJZV3RuVEdVdFoxQnBTR0ppVTAxQlNtOURSbFZ5UldacmRqZEhlbFpFUm1oclNVeFRjRXBxZWtFM2FWTXhkWEpOWTBGM1F6YzFRMEpQWWsxMmExOWhaakl4VUdnd05qUjZRVFJZTXkweWFubFRaR2gyT0V4RlNVczJVRGhDZW05dmExUklOV05UY2xCNFZWZFRNRGxNTTJVM1dtVm1ZWEJvY0ZReFVHVmZaelozVGxsRFdsQjBVV2xSY1dSd05IbHVObFV3Y2s0d2FYQXdjVVpITFVkbVYzcFJiell0Y1d4dVptUkxVMHR4WTFKT1N6QlhTM2xhVW5KcE5GQTVUek5DUlZCbFdFaHBZbU5pWW5vMFRUbFNhRFJrTFhSbE4xTlhVV2d4ZUZSS1FYWjVkRWcxWmpaVmJYaDVNa1JHV0MxbVFrNXNNbFp2UTNaWVFrMXJaa0kzUVZSS1UwaHNXVTFKT0dsNVFtRnhXbTkzUkhWV1JHOXBRemgwVG1nMmRYVkNhbGRCVEhWRmNGQmpaMlZUYlZSMFRYa3RVRW80U2pWbExXMXBhelF5TVc5SmFXVTVTM2RoVVdjM09VOWxYMEZYVFV3MFNsOTJZMkUyUjFSVlkyeHVkVlJhYUc1aGNWbEpNV3RZWkUxbFIyVk9ibEJFWlVSVVFsZFlSbWxaTjE5c01VRmxWVUZFYVRaTFpIbFpaWHBNTkZwRVlqVXhWQzFKTmxGb2NrMUxZMGhaY1VWc2IzbFpTMjVoV2t0VFEzbGlXbmRXTWxOQ2IzSnVZMloxT0RKbk5sVXhWRlZNWmpoS2IwNVFOWFI1VlVocE4yMWtWVGRFVHpOQ01qRkdVRnBaVGxreGNDMXlTVmxzWjJkVGEzSmFkRnBxTUdoeGF6aHJSVlp1YWs5MlFTMVpiVTVFYW5CQmQxTjBheTFDTVhCRWJHbFZOVGRITlRneExVVkhZM0F3TVVReVF6SkdXVEpIVUU1RE4yTktaVWhSTFRod2VEZ3phSFUwU2xsSlNVNTViVFZXWDBaT2FtZFdORmhPUWxwdFVteFljamhGUWxodVVGbENkVFpHY1U5V1lWRnRkVEZPVkVSa1FUTnJTblpvZFVkYVFYY3RRUzFPTUdwSWVtTkxlV013Wm5KUmRTMUhTRkJ0VVZoUVZWQlJZbFYzWHpSdGVGQlRhMnRHTFZwWlpIYzBSRmh4WjNWNVNtSTBVSGhyWjJnM05YSnNZMFJ3YkVkWE9IRjVZWEpVWW5Oa05rWXllR2RaTldKcFRVRkhiRWsxUjBoMmJFMW9TSEpJVHpBMU0wUXpURlJRVGtkeE1FWTNhWEJ1TTNWdlNFbDBaMnRMYkVkNU1rRndiekJ3VGxKbk5YTTVhRVJuVGs5eFN4Z0U%3D.Cgs2cEVmaS1HNFUzZyjfzanOBjIKCgJERRIEEgAgJA%3D%3D",
+  "data": [
+    {
+      "videoId": "tlFdJ3DI8z4",
+      "title": "CC Certificate Webinar: OER and Accessibility, January 2026",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on March 19, 2026. The recording has been minimally...",
+      "viewCount": "44",
+      "publishedText": "9 days ago",
+      "lengthText": "57:16",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/tlFdJ3DI8z4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdjyrmdzZV1LFIQfG2uUmVst0AIw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tlFdJ3DI8z4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAsuL6mizsJ9R4iJhdxrEpw5C4SQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tlFdJ3DI8z4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9yNw2gC6GRyK4PjioDg9t1cWvnQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/tlFdJ3DI8z4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBid0IC98dxcX_IYUY4fLLjsaSrSQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "Tp3Z1FnVyC4",
+      "title": "CC Certificate Webinar: Licensing Q&A, January 2026",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on March 11, 2026. The recording has been minimally...",
+      "viewCount": "41",
+      "publishedText": "12 days ago",
+      "lengthText": "59:24",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/Tp3Z1FnVyC4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAhtBDO9h9n6uhIdBU7HUEwID_OhQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Tp3Z1FnVyC4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBK54013d93x7FQNFkFMAwv9tDEdQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Tp3Z1FnVyC4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0085Qyf2LyOlav4AtCbZ037_NTw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Tp3Z1FnVyC4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLYZY9jAT7lnwVz73US5DyVegFnw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/Tp3Z1FnVyC4/mqdefault_6s.webp?du=3000&sqp=CJ67qc4G&rs=AOn4CLAyZ6cu8IhTmguXOG0CsqP1XDsqHw",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "CweFSQw3tBs",
+      "title": "CC Certificate Webinar: Open Licensing Models in the Cultural Heritage Sector, January 2026",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on February 24, 2026. The recording has been minimally...",
+      "viewCount": "90",
+      "publishedText": "1 month ago",
+      "lengthText": "54:51",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/CweFSQw3tBs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAcDKcwmFoR_P0IRkdVbWdgdd6AFQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CweFSQw3tBs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdwYh7a1Z3_lX_x3Rv_uDsIIjehQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CweFSQw3tBs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_xgL0H3uAJDzSAhIxsB41NaLX2A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CweFSQw3tBs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVdi5D239gBRosNZowZqO4zukfPg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/CweFSQw3tBs/mqdefault_6s.webp?du=3000&sqp=COKXqc4G&rs=AOn4CLDcMybUxuQzrhroEchiA8c19-QzVA",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "GhjQWtzGpJg",
+      "title": "CC Cert Webinar: Opening Collections, Managing Risk: A Toolkit for GLAM Institutions, January 2026",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on February 12, 2026. The recording has been minimally...",
+      "viewCount": "66",
+      "publishedText": "1 month ago",
+      "lengthText": "52:41",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/GhjQWtzGpJg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCW-reotmgrHOOyhFaPx5pEWyaiww",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GhjQWtzGpJg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHNVa8ZDjFRbbm8I-hWK3iNiAMog",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GhjQWtzGpJg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAUqZE3LpQAfjXgr1mrqNqqc3ApA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/GhjQWtzGpJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmOnZFs2CacVOk1ZyVTkstxj1mpA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/GhjQWtzGpJg/mqdefault_6s.webp?du=3000&sqp=CMDMqc4G&rs=AOn4CLBcMCRuS8F27BUSMOBdvWhUX2yWDg",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "dJG0jqhsa3c",
+      "title": "Creative Commons License Chooser Demonstration",
+      "description": "A brief video demonstration explaining how to use the Creative Commons License Chooser (https://www.creativecommons.org/chooser).\n\nThis video recording is by Creative Commons and licensed CC...",
+      "viewCount": "224",
+      "publishedText": "2 months ago",
+      "lengthText": "3:31",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/dJG0jqhsa3c/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CIAC0AWKAgwIABABGDogEyh_MA8=&rs=AOn4CLBsy6aUJjyOqr7Ob9rKeqT-wZxGgw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dJG0jqhsa3c/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CIAC0AWKAgwIABABGDogEyh_MA8=&rs=AOn4CLAq5CU1pQhfCPNMCAC3200S4JBJQw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dJG0jqhsa3c/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARg6IBMofzAP&rs=AOn4CLC0OGBrVAS1eawZB38VH19JXtoCvA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/dJG0jqhsa3c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARg6IBMofzAP&rs=AOn4CLBA6FQzss7bp0S8Cj9EiWjryynupA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/dJG0jqhsa3c/mqdefault_6s.webp?du=3000&sqp=CI6uqc4G&rs=AOn4CLCCBc2rufvQctDS1S6iLQ7L8p0KUQ",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "ZT94rWGaqlg",
+      "title": "CC Certificate Webinar: CC and AI with Diyana Noory, September 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on November 19, 2025. The recording has been minimally...",
+      "viewCount": "199",
+      "publishedText": "3 months ago",
+      "lengthText": "56:55",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/ZT94rWGaqlg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGMgZShNMA8=&rs=AOn4CLAns3Iu67T1piWO3manOf7KxHmnvw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZT94rWGaqlg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGMgZShNMA8=&rs=AOn4CLAUjWa2RnhcOx7Qc9_iUiuMNire9A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZT94rWGaqlg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhjIGUoTTAP&rs=AOn4CLDM69hyeokne2vHpGEDXQM5X--L3Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/ZT94rWGaqlg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhjIGUoTTAP&rs=AOn4CLCQeuHm83cW4ISsASAhhKesazuiXA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/ZT94rWGaqlg/mqdefault_6s.webp?du=3000&sqp=CNC6qc4G&rs=AOn4CLBWe1q8K8yXxpSWThmUx9CzpetoUQ",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "c2poHUrIq1g",
+      "title": "CC Certificate Webinar: Licensing Q&A with Kat Walsh, September 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on November 13, 2025. The recording has been minimally...",
+      "viewCount": "106",
+      "publishedText": "4 months ago",
+      "lengthText": "57:09",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/c2poHUrIq1g/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGE8gYChlMA8=&rs=AOn4CLC-KSka8404HDvRjsve7N7e3xXHeQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c2poHUrIq1g/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGE8gYChlMA8=&rs=AOn4CLBbxwJeffzfcG7RQZrvNV7pwmGIsQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c2poHUrIq1g/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGAoZTAP&rs=AOn4CLBRyPYTd8KEc5p9Tw3Py_c8Ua3u2Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/c2poHUrIq1g/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhPIGAoZTAP&rs=AOn4CLDM0uPsEB3IUiSfa6swSSzfAC7pxg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/c2poHUrIq1g/mqdefault_6s.webp?du=3000&sqp=CLibqc4G&rs=AOn4CLC8t-Nl_ql9AnrK1pm9h9_LKx7KPQ",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "UAAd2wEIH1A",
+      "title": "CC Certificate Webinar: Licensing Q&A with Meredith Jacob, September 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on November 5, 2025. The recording has been minimally...",
+      "viewCount": "137",
+      "publishedText": "4 months ago",
+      "lengthText": "50:44",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/UAAd2wEIH1A/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGFYgYyhlMA8=&rs=AOn4CLCFRs3GZnbI09fC8pDlUCcDi4-X1g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UAAd2wEIH1A/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGFYgYyhlMA8=&rs=AOn4CLCTLNyBUSNlBKM4nvST044_o2R8ZA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UAAd2wEIH1A/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhWIGMoZTAP&rs=AOn4CLDbF7YrR9aIGPdS874efoOpv9zMdg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/UAAd2wEIH1A/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhWIGMoZTAP&rs=AOn4CLDEqPtgXvVO9XI3uFC7mUN5izDYWw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/UAAd2wEIH1A/mqdefault_6s.webp?du=3000&sqp=CMDLqc4G&rs=AOn4CLBrt-x6GN82IQk1abxBQpVtT2gvbA",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "cUEIaT0pgrU",
+      "title": "CC Certificate Webinar: Open Culture topic, September 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on 15 October 2025. The recording has been minimally...",
+      "viewCount": "96",
+      "publishedText": "5 months ago",
+      "lengthText": "58:56",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/cUEIaT0pgrU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAPmwvWIurgdhwgecmJhZ_zG_hr6g",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cUEIaT0pgrU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDloTnbBDg7BInZn3Sjmo-0he921A",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cUEIaT0pgrU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBD_4gQolWDT55Qra3bD2QWgbcX4Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/cUEIaT0pgrU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC3w4Hy5LdfKk1ZnocKWD6tk1L6vA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/cUEIaT0pgrU/mqdefault_6s.webp?du=3000&sqp=CN2-qc4G&rs=AOn4CLAF7NIvdthU4fgME1UmjrewVs5lkw",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "Rd4uKncVEoY",
+      "title": "Open Heritage Statement Launch Webinar",
+      "description": "On 14 October 2025, Creative Commons and the TAROCH Coalition hosted the global launch of the Open Heritage Statement, a milestone in the movement for equitable access to public domain heritage...",
+      "viewCount": "667",
+      "publishedText": "5 months ago",
+      "lengthText": "1:00:48",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/Rd4uKncVEoY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBv9Hn8IQCsQz6YGNcrfzPUqrzjHQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Rd4uKncVEoY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBCUKwQlzkQFUjPaHx-dKjba1tVfg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Rd4uKncVEoY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDusd-tOjJratCHHQYa2oVzs893Tw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Rd4uKncVEoY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACXDYz1OIdBWJGDrWWbnxhrej9ng",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "kANHvQFxxzk",
+      "title": "CC Certificate Webinar: OER and Accessibility, June 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on July 29, 2025. The recording has been minimally...",
+      "viewCount": "357",
+      "publishedText": "7 months ago",
+      "lengthText": "57:26",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/kANHvQFxxzk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEMgZShGMA8=&rs=AOn4CLARTVBC-obAgsbi75lUen_vwkJU0w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kANHvQFxxzk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEMgZShGMA8=&rs=AOn4CLByTqqrerO0LfzbQ0IECe9dine94g",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kANHvQFxxzk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhDIGUoRjAP&rs=AOn4CLDg9sjFuf1lIbFdUFcZY32YUPmR1Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/kANHvQFxxzk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhDIGUoRjAP&rs=AOn4CLDpauSabp8LeIA9aCbKuztBBOExpg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "MjH_xSkc59I",
+      "title": "CC Certificate Webinar: Licensing Q&A with Kat Walsh, June 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on July 17, 2025. The recording has been minimally...",
+      "viewCount": "8921",
+      "publishedText": "8 months ago",
+      "lengthText": "57:45",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/MjH_xSkc59I/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgRihZMA8=&rs=AOn4CLAhdJGvCefIzzVO22kbQvG5XoFKmg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MjH_xSkc59I/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgRihZMA8=&rs=AOn4CLDH1LS0CPImqX8Nx3T4ApB02hsiHA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MjH_xSkc59I/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIEYoWTAP&rs=AOn4CLBA7ARdcVisF3ssMleM5tMf8lEibw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/MjH_xSkc59I/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIEYoWTAP&rs=AOn4CLDGYUPm1_CgActtui9AVmEgrrr2vA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/MjH_xSkc59I/mqdefault_6s.webp?du=3000&sqp=CJaYqc4G&rs=AOn4CLA4SDppssbc-IQVk4fOqPpSyiIuWw",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "0ll44loeyp0",
+      "title": "CC Certificate Webinar: Licensing Q&A with Meredith Jacob, June 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on July 9, 2025. The recording has been minimally...",
+      "viewCount": "185",
+      "publishedText": "8 months ago",
+      "lengthText": "1:02:49",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/0ll44loeyp0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEYgZShJMA8=&rs=AOn4CLAmL0i2nnPRADZIFwrCZyFF7jDtFQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0ll44loeyp0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEYgZShJMA8=&rs=AOn4CLC66EKGXwJ__Fw8yry8P5SWKpgG9Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0ll44loeyp0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhGIGUoSTAP&rs=AOn4CLBazGjEJWDOCS8-rCXhI1n2KQVHyQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/0ll44loeyp0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhGIGUoSTAP&rs=AOn4CLCeKd85t5pO7igc1ML2wvFZIA-UHQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/0ll44loeyp0/mqdefault_6s.webp?du=3000&sqp=CIaSqc4G&rs=AOn4CLDPgjyH0ikge8uAWTpk4eL_SUDn5A",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "_IBTfklg8q0",
+      "title": "Open Licensing for Research with Creative Commons",
+      "description": "If you’re a researcher, scientist, or knowledge producer, you are a creator. Every dataset, manuscript, and research output you produce can fuel discovery, deepen collaboration, and help...",
+      "viewCount": "2364",
+      "publishedText": "8 months ago",
+      "lengthText": "3:46",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/_IBTfklg8q0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApdwiC0q_XVFC5ZvytX0HMwCdDVw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_IBTfklg8q0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfm4i0o7HAj8DYDjBo9-ys2J9xwg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_IBTfklg8q0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9JH8Ck2lzBiEYquuYnibHp7Xhsg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/_IBTfklg8q0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIDXVBy3bzHggjbDnN3Hnk9G2snQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/_IBTfklg8q0/mqdefault_6s.webp?du=3000&sqp=CJy3qc4G&rs=AOn4CLDow_WATrvUOWe-sIoEheOw4YewgA",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "pdqYroZQ4rw",
+      "title": "CC Signals Kickoff",
+      "description": "We are building a standardized, global mechanism called CC signals that aims to increase the agency of those creating and stewarding the content that is relied upon for AI development.  In...",
+      "viewCount": "8442",
+      "publishedText": "9 months ago",
+      "lengthText": "40:52",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/pdqYroZQ4rw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGJ6-QnvfKIxh9QhVqa2vGKx1mvA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pdqYroZQ4rw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNayGtfmuzl6kzjU0q4i9vWivvfA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pdqYroZQ4rw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXmtTXAz0QvFTzGeg18mLe04-c-A",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/pdqYroZQ4rw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6KTVmskklWV7DhY2Lo1Ofm7AIaA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "csc1XyD8Jck",
+      "title": "The Economics of Open with the Authors of Open Licensing Models in the Cultural Heritage Sector",
+      "description": "Open Licensing Models in the Cultural Heritage Sector, is a new international study carried out by researchers at the CREATe Centre (University of Glasgow) and the Centre for Archive Studies...",
+      "viewCount": "314",
+      "publishedText": "9 months ago",
+      "lengthText": "57:45",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/csc1XyD8Jck/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDRqvhJnbuGUgi6twwzWtnb5GxP7w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/csc1XyD8Jck/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDW184uuEDhxM6HBCXP2xzm5NHhxw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/csc1XyD8Jck/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdI6QAR1FNYPxIfgiiDL_JuQhDUQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/csc1XyD8Jck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbtED3ksALIZqfvwVkqn1xGBxWNQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/csc1XyD8Jck/mqdefault_6s.webp?du=3000&sqp=CNWeqc4G&rs=AOn4CLDM76F2-2UaOsDb3gvOA4a1blcObQ",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "JoGBRHXjyJY",
+      "title": "CC Certificate Webinar: Cultural Crossroads (Open Culture topic), June 2025",
+      "description": "This webinar, Cultural Crossroads: Unpacking Appropriation & Embracing Authenticity, was originally presented by Raven Dial-Stanley for participants in the Creative Commons Certificate courses...",
+      "viewCount": "112",
+      "publishedText": "9 months ago",
+      "lengthText": "49:05",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/JoGBRHXjyJY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gRSgTMA8=&rs=AOn4CLAZOpKrO95Fjvr87_s-qcLGjbUGEw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JoGBRHXjyJY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gRSgTMA8=&rs=AOn4CLBlcgM25un9oHG_lFCZxsIUZDDIUw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JoGBRHXjyJY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEUoEzAP&rs=AOn4CLCC7qGpMYUtcWxivXdu3QzA1wMcfg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/JoGBRHXjyJY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEUoEzAP&rs=AOn4CLAtecsvaWDkdVPNUqz6tuUBo9sgmQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/JoGBRHXjyJY/mqdefault_6s.webp?du=3000&sqp=CITFqc4G&rs=AOn4CLCC-WoruA01HP1h9WOOO1i3ARalSQ",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "Qt7jr6PiSt8",
+      "title": "Introductory video for ALA LearnRT tabling event June 2025",
+      "description": "This video was created for the American Library Association Learning Round Table, for a virtual event from June 2-6, 2025.",
+      "viewCount": "84",
+      "publishedText": "10 months ago",
+      "lengthText": "7:33",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/Qt7jr6PiSt8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CIAC0AWKAgwIABABGFwgZShYMA8=&rs=AOn4CLBxCl03VceGpBBu9NjwCDnzaoIzaw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Qt7jr6PiSt8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CIAC0AWKAgwIABABGFwgZShYMA8=&rs=AOn4CLALDb5DN1LSKE1tRbXXfGWSblU2pg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Qt7jr6PiSt8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARhcIGUoWDAP&rs=AOn4CLDWesE_D4ngd_XW2Lu3OK1J6eDlNA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Qt7jr6PiSt8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_giAAtAFigIMCAAQARhcIGUoWDAP&rs=AOn4CLBgfDJybfsCNg2QA45pvcEByn_-rg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "LM-UAQ5AnXw",
+      "title": "CC Certificate Webinar: Alumni Panel Discussion, January 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on March 26, 2025. The recording has been minimally...",
+      "viewCount": "464",
+      "publishedText": "1 year ago",
+      "lengthText": "1:01:02",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/LM-UAQ5AnXw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZChQMA8=&rs=AOn4CLCCC0zzejkiA6lc_xfo0AdyKwH6HQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LM-UAQ5AnXw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZChQMA8=&rs=AOn4CLD12FhdzfXYGeJS8Dk35P-oyUYTEg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LM-UAQ5AnXw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGQoUDAP&rs=AOn4CLDGxXWdocAy_R_f56L8ik2gxR9N1Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/LM-UAQ5AnXw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGQoUDAP&rs=AOn4CLD8VRDSfBTheOgcNUASrHwe-MmC0A",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/LM-UAQ5AnXw/mqdefault_6s.webp?du=3000&sqp=CPCjqc4G&rs=AOn4CLAuZYnKmC80BLTvvcjgss62g4RAqw",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "HxSoww44kFM",
+      "title": "CC Certificate Webinar: Licensing Q&A with Kat Walsh, January 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on March 13, 2025. The recording has been minimally...",
+      "viewCount": "132",
+      "publishedText": "1 year ago",
+      "lengthText": "42:35",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/HxSoww44kFM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGD4gSChyMA8=&rs=AOn4CLAqthENrgUTCyWCzuCRVoNqpAwYjQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HxSoww44kFM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGD4gSChyMA8=&rs=AOn4CLDNW5Oh01JHk2IBFbOVUySnesVf8Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HxSoww44kFM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg-IEgocjAP&rs=AOn4CLBV11ipW1xwfVf2fDSI2HAPkRKXug",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/HxSoww44kFM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARg-IEgocjAP&rs=AOn4CLDFC4wYMuKGzu6YXnZciyRqAiSL9w",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/HxSoww44kFM/mqdefault_6s.webp?du=3000&sqp=CMywqc4G&rs=AOn4CLC0ySz3sqREr7lAKVUZLp8jaluJyw",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "Inv77K80ZLQ",
+      "title": "CC Certificate Webinar: Licensing Q&A with Meredith Jacob, January 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on March 5, 2025. The recording has been minimally...",
+      "viewCount": "195",
+      "publishedText": "1 year ago",
+      "lengthText": "55:17",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/Inv77K80ZLQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEggZShIMA8=&rs=AOn4CLBGY9_PYYVbKhLsywSgYDyDvMZB7A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Inv77K80ZLQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEggZShIMA8=&rs=AOn4CLBV4SYXTDmOqn0BlxWTeZkdiNyEPQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Inv77K80ZLQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhIIGUoSDAP&rs=AOn4CLDxBh4XM7yt6d5aTOGJr8CRUkh4Cw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Inv77K80ZLQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhIIGUoSDAP&rs=AOn4CLCBKhBSSHYLVONqT2BjC35cfP7DXw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/Inv77K80ZLQ/mqdefault_6s.webp?du=3000&sqp=COi_qc4G&rs=AOn4CLCWlpTi_B6edRZ4AfmHdFDZGfk0LA",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "vo45ptzY3XM",
+      "title": "Bridging Open Culture and Education: Case Studies in Cultural Heritage Education",
+      "description": "How can open culture initiatives and open educational resources work together to bring cultural heritage to life in innovative and engaging ways? This webinar showcases three inspiring case...",
+      "viewCount": "351",
+      "publishedText": "1 year ago",
+      "lengthText": "57:55",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/vo45ptzY3XM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDTdDnNb30i6wA3MHLY3PBYWdDcrg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vo45ptzY3XM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1QE5uQikqhKFMlYx3rbCJ-a4a3w",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vo45ptzY3XM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2hitvq4F-PkwAWA_VrHbr4hjhJw",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/vo45ptzY3XM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChTB22d_zPTI7M0tLGP7JTSr5VAQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/vo45ptzY3XM/mqdefault_6s.webp?du=3000&sqp=CLCmqc4G&rs=AOn4CLDkKbBA4r8NbXm9paAEkxHvKi1rUA",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "G4PYGyXUjQg",
+      "title": "CC Certificate Webinar: Generative AI and OER, January 2025",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on February 4, 2025. The recording has been minimally...",
+      "viewCount": "376",
+      "publishedText": "1 year ago",
+      "lengthText": "1:00:15",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/G4PYGyXUjQg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgVygoMA8=&rs=AOn4CLADAw83Ae0dpOpuic7DATV7jV6y9A",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/G4PYGyXUjQg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgVygoMA8=&rs=AOn4CLDdkS0e2cUNpJy2BryKjLr6mYhQiA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/G4PYGyXUjQg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoKDAP&rs=AOn4CLATGbjOoXS2xGMZ2kzb_HnR3mCY2Q",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/G4PYGyXUjQg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFcoKDAP&rs=AOn4CLDoWX-PB__9FVC-8qFHYZUUQCSlJQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "aI1UJZgNPW4",
+      "title": "ALA Core webinar series, part 4 - The Future of Open Licensing and Creative Commons",
+      "description": "This webinar is part 4 of a 4-part series that was originally presented in partnership with the American Library Association (ALA)'s Core division (https://www.ala.org/core) from March 12 through...",
+      "viewCount": "74",
+      "publishedText": "1 year ago",
+      "lengthText": "59:37",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/aI1UJZgNPW4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGCkgZShSMA8=&rs=AOn4CLCuetAv9XfezjLBZCjCH8FuDJvhMg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aI1UJZgNPW4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGCkgZShSMA8=&rs=AOn4CLDCTNO96fIgmr7c1sMmqMc3dcZ2Gw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aI1UJZgNPW4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgpIGUoUjAP&rs=AOn4CLCCB_hW5OiLUAz5Y3YV1xgNeEMHJA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/aI1UJZgNPW4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgpIGUoUjAP&rs=AOn4CLAoci-fZSK4rqSydX-VqSV6VJLf-A",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "Wi5vPm56fzg",
+      "title": "ALA Core webinar series, part 3 - Making the Case for Open at Your Institution",
+      "description": "This webinar is part 3 of a 4-part series that was originally presented in partnership with the American Library Association (ALA)'s Core division (https://www.ala.org/core) from March 12 through...",
+      "viewCount": "52",
+      "publishedText": "1 year ago",
+      "lengthText": "1:00:20",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/Wi5vPm56fzg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGBEgaihyMA8=&rs=AOn4CLBiwlvQTN4J2xtxpUACXp_QonP-hA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Wi5vPm56fzg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGBEgaihyMA8=&rs=AOn4CLAm3CR565h35aDZepf0uIfYquLgjQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Wi5vPm56fzg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgRIGoocjAP&rs=AOn4CLD70sdYI3755VOoS8vQRXIf0Z9-pg",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Wi5vPm56fzg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgRIGoocjAP&rs=AOn4CLBnqu4n-7bU4OVgzvv_MQ4phTLE2w",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "CIFHx7_z3Vc",
+      "title": "ALA Core webinar series, part 2 - Deep Dive into Creative Commons Licensing",
+      "description": "This webinar is part 2 of a 4-part series that was originally presented in partnership with the American Library Association (ALA)'s Core division (https://www.ala.org/core) from March 12 through...",
+      "viewCount": "111",
+      "publishedText": "1 year ago",
+      "lengthText": "1:00:01",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/CIFHx7_z3Vc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGB0gSCh_MA8=&rs=AOn4CLCVVdb3e4hmmbnpUxQ5cH4_mQSNdA",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CIFHx7_z3Vc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGB0gSCh_MA8=&rs=AOn4CLDTDwFK2kprKwT3pH2-znzbmotYmQ",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CIFHx7_z3Vc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgdIEgofzAP&rs=AOn4CLDEtnYSzShlcWOvBNP6XvZOx-is0g",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/CIFHx7_z3Vc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARgdIEgofzAP&rs=AOn4CLARPv9mft_hfyDFZ5HOtnUe5NkGjg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "s5jaFTP3tN8",
+      "title": "ALA Core webinar series, part 1 - Creative Commons and Copyright: Working Together",
+      "description": "This webinar is part 1 of a 4-part series that was originally presented in partnership with the American Library Association (ALA)'s Core division (https://www.ala.org/core) from March 12 through...",
+      "viewCount": "162",
+      "publishedText": "1 year ago",
+      "lengthText": "58:28",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/s5jaFTP3tN8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGHIgTShEMA8=&rs=AOn4CLDM-QIco7NYuIrZLhq-usNWXb08Yw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s5jaFTP3tN8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGHIgTShEMA8=&rs=AOn4CLBpa24ue3RDVF_UkMlTjt8vm9E1OA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s5jaFTP3tN8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIE0oRDAP&rs=AOn4CLDd4bS91TGuVdm8ukxldjtd3CoJaA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/s5jaFTP3tN8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhyIE0oRDAP&rs=AOn4CLAabiPaEMevh-WzLWFMCx15RxppIQ",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/s5jaFTP3tN8/mqdefault_6s.webp?du=3000&sqp=CMPMqc4G&rs=AOn4CLBbx9w-iLE99TCmE0wyyW1SfjoyNg",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "1BMHyslHmYY",
+      "title": "Creative Commons Open Education Lightning Talks: January 2025",
+      "description": "The CC Open Education Platform community invites you to watch this recording of our latest Lightning Talks, seven-minute presentations on specific updates or stories in open education.\n\nKicking...",
+      "viewCount": "332",
+      "publishedText": "1 year ago",
+      "lengthText": "53:16",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/1BMHyslHmYY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgWig5MA8=&rs=AOn4CLCXCyVdF9QqYOGxyTdY3ZnQ-QXrrg",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1BMHyslHmYY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgWig5MA8=&rs=AOn4CLBOi7s2jlEju40C7cK1tHUAtK_4jg",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1BMHyslHmYY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFooOTAP&rs=AOn4CLB1D-jBXQyQrc1KBJ3sOLUPe2qmig",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/1BMHyslHmYY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFooOTAP&rs=AOn4CLD_v61gzGAUYHU23srEdQixdKfqBA",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/1BMHyslHmYY/mqdefault_6s.webp?du=3000&sqp=COLMqc4G&rs=AOn4CLA09jbN2NA3NKKu_TprAyx7HHyLIg",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    },
+    {
+      "videoId": "qiAzEH711CQ",
+      "title": "How to Choose a License to Amplify the Impact of your Preprint (hosted with arXiv, bioRxiv, medRxiv)",
+      "description": "In this Open Access Week 2024 webinar for research scientists and institution information managers, Creative Commons (CC) staff describe how CC licenses enable authors to communicate the different...",
+      "viewCount": "1075",
+      "publishedText": "1 year ago",
+      "lengthText": "1:12:52",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/qiAzEH711CQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAClAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAbNZa2hSYkQSlHI4rL-qiRcqZMHw",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qiAzEH711CQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAClAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDM1gS5q_rz4xjHv1qukIzGv76zXA",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qiAzEH711CQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAApQFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDDga_ifZkK32CVfRUpYjmYPpcCTA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/qiAzEH711CQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAApQFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDKUDH_lZ8nm_hSZhloIdd3wbXigg",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": null
+    },
+    {
+      "videoId": "-MDUZuruN1k",
+      "title": "CC Certificate: Accessibility Considerations with Nancy Olson, September 2024 session",
+      "description": "This webinar was originally presented for participants in the Creative Commons Certificate courses (https://certificates.creativecommons.org) on November 13, 2024. The recording has been minimally...",
+      "viewCount": "131",
+      "publishedText": "1 year ago",
+      "lengthText": "58:08",
+      "thumbnail": [
+        {
+          "url": "https://i.ytimg.com/vi/-MDUZuruN1k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLA3Ba6_y7GOSTbxphFE64lVFSvy-w",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-MDUZuruN1k/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGkgaShpMA8=&rs=AOn4CLAglSKAzX_7A7OIsQoiA-Ro9wwPMw",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-MDUZuruN1k/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLClZy7fyrd9CzQsQpbhJLv5L-I6bQ",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/-MDUZuruN1k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLDQMg6VaXNJwue7jupq31Foz3qrvw",
+          "width": 336,
+          "height": 188
+        }
+      ],
+      "richThumbnail": [
+        {
+          "url": "https://i.ytimg.com/an_webp/-MDUZuruN1k/mqdefault_6s.webp?du=3000&sqp=CI_Eqc4G&rs=AOn4CLDyLxIZ84md98samHKhrjkRBIAIqQ",
+          "width": 320,
+          "height": 180
+        }
+      ]
+    }
+  ],
+  "msg": ""
+}

@@ -1,0 +1,69 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* Body background (slightly off-white) */
+body {
+  background-color: #f5f5f5; /* soft white (not pure white) */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Form container */
+form {
+  width: 500px;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+header {
+  position: absolute;
+  top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+/* Labels */
+label {
+  font-weight: bold;
+  margin-top: 10px;
+  display: block;
+}
+
+/* Inputs and textarea */
+textarea,
+select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Button styling */
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #28a745; /* green */
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #218838;
+}
